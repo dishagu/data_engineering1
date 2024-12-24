@@ -1,0 +1,1212 @@
+BATTING,dismissed by,R,B,M,4s,6s,SR,Innings,Match ID,Fielder,Bowler,Status
+Matthew Wade,lbw b Thakur,80,53,-,7,2,150.94,First Innings,1116,,Thakur,lbw
+Aaron Finch,c Pandya b Washington Sundar,0,2,-,0,0,0.00,First Innings,1116,Pandya,Washington Sundar,caught
+Steven Smith,b Washington Sundar,24,23,-,1,0,104.34,First Innings,1116,,Sundar,b
+Glenn Maxwell,b Natarajan,54,36,-,3,3,150.00,First Innings,1116,,Natarajan,b
+Moises Henriques,not out,5,2,-,1,0,250.00,First Innings,1116,,,not out
+D'Arcy Short,run out (sub [MK Pandey]/†Rahul),7,3,-,1,0,233.33,First Innings,1116,,Pandey]/†Rahul),run
+Daniel Sams,not out,4,2,-,1,0,200.00,First Innings,1116,,,not out
+KL Rahul,c Smith b Maxwell,0,2,-,0,0,0.00,Second Innings,1116,Smith,Maxwell,caught
+Shikhar Dhawan,c Sams b Swepson,28,21,-,3,0,133.33,Second Innings,1116,Sams,Swepson,caught
+Virat Kohli,c Sams b Tye,85,61,-,4,3,139.34,Second Innings,1116,Sams,Tye,caught
+Sanju Samson,c Smith b Swepson,10,9,-,0,0,111.11,Second Innings,1116,Smith,Swepson,caught
+Shreyas Iyer,lbw b Swepson,0,1,-,0,0,0.00,Second Innings,1116,,Swepson,lbw
+Hardik Pandya,c Finch b Zampa,20,13,-,1,2,153.84,Second Innings,1116,Finch,Zampa,caught
+Washington Sundar,c Tye b Abbott,7,6,-,1,0,116.66,Second Innings,1116,Tye,Abbott,caught
+Shardul Thakur,not out,17,7,-,0,2,242.85,Second Innings,1116,,,not out
+Deepak Chahar,not out,0,0,-,0,0,-,Second Innings,1116,,,not out
+Matthew Wade,run out (Kohli/†Rahul),58,32,-,10,1,181.25,First Innings,1115,,(Kohli/†Rahul),run
+D'Arcy Short,c Iyer b Natarajan,9,9,-,1,0,100.00,First Innings,1115,Iyer,Natarajan,caught
+Steven Smith,c Pandya b Chahal,46,38,-,3,2,121.05,First Innings,1115,Pandya,Chahal,caught
+Glenn Maxwell,c Washington Sundar b Thakur,22,13,-,0,2,169.23,First Innings,1115,Washington Sundar,Thakur,caught
+Moises Henriques,c †Rahul b Natarajan,26,18,-,0,1,144.44,First Innings,1115,†Rahul,Natarajan,caught
+Marcus Stoinis,not out,16,7,-,0,1,228.57,First Innings,1115,,,not out
+Daniel Sams,not out,8,3,-,1,0,266.66,First Innings,1115,,,not out
+KL Rahul,c Swepson b Tye,30,22,-,2,1,136.36,Second Innings,1115,Swepson,Tye,caught
+Shikhar Dhawan,c Swepson b Zampa,52,36,-,4,2,144.44,Second Innings,1115,Swepson,Zampa,caught
+Virat Kohli,c †Wade b Sams,40,24,-,2,2,166.66,Second Innings,1115,†Wade,Sams,caught
+Sanju Samson,c Smith b Swepson,15,10,-,1,1,150.00,Second Innings,1115,Smith,Swepson,caught
+Hardik Pandya,not out,42,22,-,3,2,190.90,Second Innings,1115,,,not out
+Shreyas Iyer,not out,12,5,-,1,1,240.00,Second Innings,1115,,,not out
+KL Rahul,c Abbott b Henriques,51,40,-,5,1,127.50,First Innings,1114,Abbott,Henriques,caught
+Shikhar Dhawan,b Starc,1,6,-,0,0,16.66,First Innings,1114,,Starc,b
+Virat Kohli,c & b Swepson,9,9,-,1,0,100.00,First Innings,1114,&,Swepson,caught
+Sanju Samson,c Swepson b Henriques,23,15,-,1,1,153.33,First Innings,1114,Swepson,Henriques,caught
+Manish Pandey,c Hazlewood b Zampa,2,8,-,0,0,25.00,First Innings,1114,Hazlewood,Zampa,caught
+Hardik Pandya,c Smith b Henriques,16,15,-,0,1,106.66,First Innings,1114,Smith,Henriques,caught
+Ravindra Jadeja,not out,44,23,-,5,1,191.30,First Innings,1114,,,not out
+Washington Sundar,c Abbott b Starc,7,5,-,1,0,140.00,First Innings,1114,Abbott,Starc,caught
+Deepak Chahar,not out,0,0,-,0,0,-,First Innings,1114,,,not out
+D'Arcy Short,c Pandya b Natarajan,34,38,-,3,0,89.47,Second Innings,1114,Pandya,Natarajan,caught
+Aaron Finch,c Pandya b Chahal,35,26,-,5,1,134.61,Second Innings,1114,Pandya,Chahal,caught
+Steven Smith,c Samson b Chahal,12,9,-,0,1,133.33,Second Innings,1114,Samson,Chahal,caught
+Glenn Maxwell,lbw b Natarajan,2,3,-,0,0,66.66,Second Innings,1114,,Natarajan,lbw
+Moises Henriques,lbw b Chahar,30,20,-,1,1,150.00,Second Innings,1114,,Chahar,lbw
+Matthew Wade,c Kohli b Chahal,7,9,-,0,0,77.77,Second Innings,1114,Kohli,Chahal,caught
+Sean Abbott,not out,12,8,-,0,1,150.00,Second Innings,1114,,,not out
+Mitchell Starc,b Natarajan,1,2,-,0,0,50.00,Second Innings,1114,,Natarajan,b
+Mitchell Swepson,not out,12,5,-,1,1,240.00,Second Innings,1114,,,not out
+KL Rahul,c Santner b Bennett,45,33,-,4,2,136.36,First Innings,1037,Santner,Bennett,caught
+Sanju Samson,c Santner b Kuggeleijn,2,5,-,0,0,40.00,First Innings,1037,Santner,Kuggeleijn,caught
+Rohit Sharma,retired hurt,60,41,-,3,3,146.34,First Innings,1037,,hurt,retired
+Shreyas Iyer,not out,33,31,-,1,2,106.45,First Innings,1037,,,not out
+Shivam Dube,c Bruce b Kuggeleijn,5,6,-,1,0,83.33,First Innings,1037,Bruce,Kuggeleijn,caught
+Manish Pandey,not out,11,4,-,1,1,275.00,First Innings,1037,,,not out
+Martin Guptill,lbw b Bumrah,2,6,-,0,0,33.33,Second Innings,1037,,Bumrah,lbw
+Colin Munro,b Washington Sundar,15,6,-,2,1,250.00,Second Innings,1037,,Sundar,b
+Tim Seifert,c Samson b Saini,50,30,-,5,3,166.66,Second Innings,1037,Samson,Saini,caught
+Tom Bruce,run out (Samson/†Rahul),0,3,-,0,0,0.00,Second Innings,1037,,(Samson/†Rahul),run
+Ross Taylor,c †Rahul b Saini,53,47,-,5,2,112.76,Second Innings,1037,†Rahul,Saini,caught
+Daryl Mitchell,b Bumrah,2,4,-,0,0,50.00,Second Innings,1037,,Bumrah,b
+Mitchell Santner,c Pandey b Thakur,6,7,-,0,0,85.71,Second Innings,1037,Pandey,Thakur,caught
+Scott Kuggeleijn,c Washington Sundar b Thakur,0,1,-,0,0,0.00,Second Innings,1037,Washington Sundar,Thakur,caught
+Tim Southee,b Bumrah,6,5,-,1,0,120.00,Second Innings,1037,,Bumrah,b
+Ish Sodhi,not out,16,10,-,0,2,160.00,Second Innings,1037,,,not out
+Hamish Bennett,not out,1,2,-,0,0,50.00,Second Innings,1037,,,not out
+KL Rahul,c Santner b Sodhi,39,26,49,3,2,150.00,First Innings,1036,Santner,Sodhi,caught
+Sanju Samson,c Santner b Kuggeleijn,8,5,9,0,1,160.00,First Innings,1036,Santner,Kuggeleijn,caught
+Virat Kohli,c Santner b Bennett,11,9,16,2,0,122.22,First Innings,1036,Santner,Bennett,caught
+Shreyas Iyer,c †Seifert b Sodhi,1,7,10,0,0,14.28,First Innings,1036,†Seifert,Sodhi,caught
+Shivam Dube,c Bruce b Sodhi,12,9,18,2,0,133.33,First Innings,1036,Bruce,Sodhi,caught
+Manish Pandey,not out,50,36,53,3,0,138.88,First Innings,1036,,,not out
+Washington Sundar,b Santner,0,3,4,0,0,0.00,First Innings,1036,,Santner,b
+Shardul Thakur,c Southee b Bennett,20,15,22,2,0,133.33,First Innings,1036,Southee,Bennett,caught
+Yuzvendra Chahal,c †Seifert b Southee,1,2,6,0,0,50.00,First Innings,1036,†Seifert,Southee,caught
+Navdeep Saini,not out,11,9,13,2,0,122.22,First Innings,1036,,,not out
+Martin Guptill,c †Rahul b Bumrah,4,8,24,0,0,50.00,Second Innings,1036,†Rahul,Bumrah,caught
+Colin Munro,run out (Thakur/Kohli),64,47,60,6,3,136.17,Second Innings,1036,,(Thakur/Kohli),run
+Tim Seifert,run out (†Rahul),57,39,82,4,3,146.15,Second Innings,1036,,(†Rahul),run
+Tom Bruce,b Chahal,0,3,3,0,0,0.00,Second Innings,1036,,Chahal,b
+Ross Taylor,c Iyer b Thakur,24,18,40,2,0,133.33,Second Innings,1036,Iyer,Thakur,caught
+Daryl Mitchell,c Dube b Thakur,4,3,6,1,0,133.33,Second Innings,1036,Dube,Thakur,caught
+Mitchell Santner,run out (Samson/†Rahul),2,2,8,0,0,100.00,Second Innings,1036,,(Samson/†Rahul),run
+Scott Kuggeleijn,not out,0,0,4,0,0,-,Second Innings,1036,,,not out
+Rohit Sharma,c Southee b Bennett,65,40,50,6,3,162.50,First Innings,1035,Southee,Bennett,caught
+KL Rahul,c Munro b de Grandhomme,27,19,40,2,1,142.10,First Innings,1035,Munro,de Grandhomme,caught
+Shivam Dube,c Sodhi b Bennett,3,7,11,0,0,42.85,First Innings,1035,Sodhi,Bennett,caught
+Virat Kohli,c Southee b Bennett,38,27,31,2,1,140.74,First Innings,1035,Southee,Bennett,caught
+Shreyas Iyer,st †Seifert b Santner,17,16,20,0,1,106.25,First Innings,1035,†Seifert,Santner,stumped
+Manish Pandey,not out,14,6,15,1,1,233.33,First Innings,1035,,,not out
+Ravindra Jadeja,not out,10,5,6,0,1,200.00,First Innings,1035,,,not out
+Martin Guptill,c sub (SV Samson) b Thakur,31,21,31,2,3,147.61,Second Innings,1035,sub (SV Samson),Thakur,caught
+Colin Munro,st †Rahul b Jadeja,14,16,34,2,0,87.50,Second Innings,1035,†Rahul,Jadeja,stumped
+Kane Williamson,c †Rahul b Mohammed Shami,95,48,68,8,6,197.91,Second Innings,1035,†Rahul,Mohammed Shami,caught
+Mitchell Santner,b Chahal,9,11,19,1,0,81.81,Second Innings,1035,,Chahal,b
+Colin de Grandhomme,c Dube b Thakur,5,12,26,0,0,41.66,Second Innings,1035,Dube,Thakur,caught
+Ross Taylor,b Mohammed Shami,17,10,23,1,1,170.00,Second Innings,1035,,Shami,b
+Tim Seifert,not out,0,2,4,0,0,0.00,Second Innings,1035,,,not out
+Martin Guptill,c Kohli b Thakur,33,20,29,4,2,165.00,First Innings,1034,Kohli,Thakur,caught
+Colin Munro,c Kohli b Dube,26,25,43,2,1,104.00,First Innings,1034,Kohli,Dube,caught
+Kane Williamson,c Chahal b Jadeja,14,20,32,0,0,70.00,First Innings,1034,Chahal,Jadeja,caught
+Colin de Grandhomme,c & b Jadeja,3,5,7,0,0,60.00,First Innings,1034,&,Jadeja,caught
+Ross Taylor,c Sharma b Bumrah,18,24,44,0,0,75.00,First Innings,1034,Sharma,Bumrah,caught
+Tim Seifert,not out,33,26,35,1,2,126.92,First Innings,1034,,,not out
+Mitchell Santner,not out,0,0,2,0,0,-,First Innings,1034,,,not out
+Rohit Sharma,c Taylor b Southee,8,6,3,2,0,133.33,Second Innings,1034,Taylor,Southee,caught
+KL Rahul,not out,57,50,80,3,2,114.00,Second Innings,1034,,,not out
+Virat Kohli,c †Seifert b Southee,11,12,21,1,0,91.66,Second Innings,1034,†Seifert,Southee,caught
+Shreyas Iyer,c Southee b Sodhi,44,33,49,1,3,133.33,Second Innings,1034,Southee,Sodhi,caught
+Shivam Dube,not out,8,4,5,0,1,200.00,Second Innings,1034,,,not out
+Martin Guptill,c Sharma b Dube,30,19,-,4,1,157.89,First Innings,1031,Sharma,Dube,caught
+Colin Munro,c Chahal b Thakur,59,42,-,6,2,140.47,First Innings,1031,Chahal,Thakur,caught
+Kane Williamson,c Kohli b Chahal,51,26,-,4,4,196.15,First Innings,1031,Kohli,Chahal,caught
+Colin de Grandhomme,c Dube b Jadeja,0,2,-,0,0,0.00,First Innings,1031,Dube,Jadeja,caught
+Ross Taylor,not out,54,27,-,3,3,200.00,First Innings,1031,,,not out
+Tim Seifert,c Iyer b Bumrah,1,2,-,0,0,50.00,First Innings,1031,Iyer,Bumrah,caught
+Mitchell Santner,not out,2,2,-,0,0,100.00,First Innings,1031,,,not out
+Rohit Sharma,c Taylor b Santner,7,6,-,0,1,116.66,Second Innings,1031,Taylor,Santner,caught
+KL Rahul,c Southee b Sodhi,56,27,-,4,3,207.40,Second Innings,1031,Southee,Sodhi,caught
+Virat Kohli,c Guptill b Tickner,45,32,-,3,1,140.62,Second Innings,1031,Guptill,Tickner,caught
+Shreyas Iyer,not out,58,29,-,5,3,200.00,Second Innings,1031,,,not out
+Shivam Dube,c Southee b Sodhi,13,9,-,1,1,144.44,Second Innings,1031,Southee,Sodhi,caught
+Manish Pandey,not out,14,12,-,0,1,116.66,Second Innings,1031,,,not out
+KL Rahul,st †Perera b Sandakan,54,36,-,5,1,150.00,First Innings,1027,†Perera,Sandakan,stumped
+Shikhar Dhawan,c Gunathilaka b Sandakan,52,36,-,7,1,144.44,First Innings,1027,Gunathilaka,Sandakan,caught
+Sanju Samson,lbw b Hasaranga,6,2,-,0,1,300.00,First Innings,1027,,Hasaranga,lbw
+Manish Pandey,not out,31,18,-,4,0,172.22,First Innings,1027,,,not out
+Shreyas Iyer,c & b Sandakan,4,2,-,1,0,200.00,First Innings,1027,&,Sandakan,caught
+Virat Kohli,run out (Gunathilaka/†Perera),26,17,-,2,1,152.94,First Innings,1027,,(Gunathilaka/†Perera),run
+Washington Sundar,c Sandakan b Kumara,0,1,-,0,0,0.00,First Innings,1027,Sandakan,Kumara,caught
+Shardul Thakur,not out,22,8,-,1,2,275.00,First Innings,1027,,,not out
+Danushka Gunathilaka,c Washington Sundar b Bumrah,1,2,-,0,0,50.00,Second Innings,1027,Washington Sundar,Bumrah,caught
+Avishka Fernando,c Iyer b Thakur,9,7,-,0,1,128.57,Second Innings,1027,Iyer,Thakur,caught
+Kusal Perera,b Saini,7,10,-,1,0,70.00,Second Innings,1027,,Saini,b
+Oshada Fernando,run out (Pandey),2,5,-,0,0,40.00,Second Innings,1027,,(Pandey),run
+Angelo Mathews,c Pandey b Washington Sundar,31,20,-,1,3,155.00,Second Innings,1027,Pandey,Washington Sundar,caught
+Dhananjaya de Silva,c Bumrah b Saini,57,36,-,8,1,158.33,Second Innings,1027,Bumrah,Saini,caught
+Dasun Shanaka,c & b Thakur,9,9,-,0,1,100.00,Second Innings,1027,&,Thakur,caught
+Wanindu Hasaranga,run out (Chahal),0,2,-,0,0,0.00,Second Innings,1027,,(Chahal),run
+Lakshan Sandakan,st †Samson b Washington Sundar,1,2,-,0,0,50.00,Second Innings,1027,†Samson,Washington Sundar,stumped
+Lasith Malinga,c Kohli b Saini,0,1,-,0,0,0.00,Second Innings,1027,Kohli,Saini,caught
+Lahiru Kumara,not out,1,1,-,0,0,100.00,Second Innings,1027,,,not out
+Danushka Gunathilaka,b Saini,20,21,-,3,0,95.23,First Innings,1026,,Saini,b
+Avishka Fernando,c Saini b Washington Sundar,22,16,-,5,0,137.50,First Innings,1026,Saini,Washington Sundar,caught
+Kusal Perera,c Dhawan b Kuldeep Yadav,34,28,-,0,3,121.42,First Innings,1026,Dhawan,Kuldeep Yadav,caught
+Oshada Fernando,st †Pant b Kuldeep Yadav,10,9,-,1,0,111.11,First Innings,1026,†Pant,Kuldeep Yadav,stumped
+Bhanuka Rajapaksa,c †Pant b Saini,9,12,-,1,0,75.00,First Innings,1026,†Pant,Saini,caught
+Dasun Shanaka,b Bumrah,7,8,-,0,0,87.50,First Innings,1026,,Bumrah,b
+Dhananjaya de Silva,c Dube b Thakur,17,13,-,2,0,130.76,First Innings,1026,Dube,Thakur,caught
+Wanindu Hasaranga,not out,16,10,-,3,0,160.00,First Innings,1026,,,not out
+Isuru Udana,c Saini b Thakur,1,2,-,0,0,50.00,First Innings,1026,Saini,Thakur,caught
+Lasith Malinga,c Kuldeep Yadav b Thakur,0,1,-,0,0,0.00,First Innings,1026,Kuldeep Yadav,Thakur,caught
+Lahiru Kumara,not out,0,0,-,0,0,-,First Innings,1026,,,not out
+KL Rahul,b Hasaranga,45,32,-,6,0,140.62,Second Innings,1026,,Hasaranga,b
+Shikhar Dhawan,lbw b Hasaranga,32,29,-,2,0,110.34,Second Innings,1026,,Hasaranga,lbw
+Shreyas Iyer,c Shanaka b Kumara,34,26,-,3,1,130.76,Second Innings,1026,Shanaka,Kumara,caught
+Virat Kohli,not out,30,17,-,1,2,176.47,Second Innings,1026,,,not out
+Rishabh Pant,not out,1,1,-,0,0,100.00,Second Innings,1026,,,not out
+Rohit Sharma,c & b Sodhi,56,31,60,5,3,180.64,First Innings,1446,&,Sodhi,caught
+Ishan Kishan,c †Seifert b Santner,29,21,35,6,0,138.09,First Innings,1446,†Seifert,Santner,caught
+Suryakumar Yadav,c Guptill b Santner,0,4,5,0,0,0.00,First Innings,1446,Guptill,Santner,caught
+Rishabh Pant,c Neesham b Santner,4,6,9,0,0,66.66,First Innings,1446,Neesham,Santner,caught
+Shreyas Iyer,c Mitchell b Milne,25,20,38,2,0,125.00,First Innings,1446,Mitchell,Milne,caught
+Venkatesh Iyer,c Chapman b Boult,20,15,24,1,1,133.33,First Innings,1446,Chapman,Boult,caught
+Axar Patel,not out,2,4,26,0,0,50.00,First Innings,1446,,,not out
+Harshal Patel,hit wicket b Ferguson,18,11,15,2,1,163.63,First Innings,1446,,Ferguson,hit wicket
+Deepak Chahar,not out,21,8,8,2,1,262.50,First Innings,1446,,,not out
+Martin Guptill,c Yadav b Chahal,51,36,52,4,4,141.66,Second Innings,1446,Yadav,Chahal,caught
+Daryl Mitchell,c HV Patel b AR Patel,5,6,13,1,0,83.33,Second Innings,1446,HV Patel,AR Patel,caught
+Mark Chapman,st †Pant b AR Patel,0,2,5,0,0,0.00,Second Innings,1446,†Pant,AR Patel,stumped
+Glenn Phillips,b AR Patel,0,4,7,0,0,0.00,Second Innings,1446,,Patel,b
+Tim Seifert,run out (Ishan Kishan/†Pant),17,18,35,1,0,94.44,Second Innings,1446,,Kishan/†Pant),run
+James Neesham,c †Pant b HV Patel,3,7,14,0,0,42.85,Second Innings,1446,†Pant,HV Patel,caught
+Mitchell Santner,run out (Ishan Kishan),2,4,12,0,0,50.00,Second Innings,1446,,Kishan),run
+Adam Milne,c Sharma b VR Iyer,7,6,15,0,1,116.66,Second Innings,1446,Sharma,VR Iyer,caught
+Ish Sodhi,c Yadav b HV Patel,9,11,13,2,0,81.81,Second Innings,1446,Yadav,HV Patel,caught
+Lockie Ferguson,c & b Chahar,14,8,11,0,2,175.00,Second Innings,1446,&,Chahar,caught
+Trent Boult,not out,2,2,7,0,0,100.00,Second Innings,1446,,,not out
+Martin Guptill,c †Pant b Chahar,31,15,25,3,2,206.66,First Innings,1440,†Pant,Chahar,caught
+Daryl Mitchell,c Yadav b HV Patel,31,28,63,3,0,110.71,First Innings,1440,Yadav,HV Patel,caught
+Mark Chapman,c Rahul b AR Patel,21,17,22,3,0,123.52,First Innings,1440,Rahul,AR Patel,caught
+Glenn Phillips,c sub (RD Gaikwad) b HV Patel,34,21,47,1,3,161.90,First Innings,1440,sub (RD Gaikwad),HV Patel,caught
+Tim Seifert,c Kumar b Ashwin,13,15,22,1,0,86.66,First Innings,1440,Kumar,Ashwin,caught
+James Neesham,c †Pant b Kumar,3,12,20,0,0,25.00,First Innings,1440,†Pant,Kumar,caught
+Mitchell Santner,not out,8,9,22,0,0,88.88,First Innings,1440,,,not out
+Adam Milne,not out,5,4,13,0,0,125.00,First Innings,1440,,,not out
+KL Rahul,c Phillips b Southee,65,49,80,6,2,132.65,Second Innings,1440,Phillips,Southee,caught
+Rohit Sharma,c Guptill b Southee,55,36,90,1,5,152.77,Second Innings,1440,Guptill,Southee,caught
+Venkatesh Iyer,not out,12,11,22,2,0,109.09,Second Innings,1440,,,not out
+Suryakumar Yadav,b Southee,1,2,3,0,0,50.00,Second Innings,1440,,Southee,b
+Rishabh Pant,not out,12,6,8,0,2,200.00,Second Innings,1440,,,not out
+Martin Guptill,c SS Iyer b Chahar,70,42,87,3,4,166.66,First Innings,1434,SS Iyer,Chahar,caught
+Daryl Mitchell,b Kumar,0,1,5,0,0,0.00,First Innings,1434,,Kumar,b
+Mark Chapman,b Ashwin,63,50,61,6,2,126.00,First Innings,1434,,Ashwin,b
+Glenn Phillips,lbw b Ashwin,0,3,4,0,0,0.00,First Innings,1434,,Ashwin,lbw
+Tim Seifert,c Yadav b Kumar,12,11,27,2,0,109.09,First Innings,1434,Yadav,Kumar,caught
+Rachin Ravindra,b Mohammed Siraj,7,8,19,1,0,87.50,First Innings,1434,,Siraj,b
+Mitchell Santner,not out,4,4,13,0,0,100.00,First Innings,1434,,,not out
+Tim Southee,not out,0,1,2,0,0,0.00,First Innings,1434,,,not out
+KL Rahul,c Chapman b Santner,15,14,27,1,1,107.14,Second Innings,1434,Chapman,Santner,caught
+Rohit Sharma,c Ravindra b Boult,48,36,63,5,2,133.33,Second Innings,1434,Ravindra,Boult,caught
+Suryakumar Yadav,b Boult,62,40,56,6,3,155.00,Second Innings,1434,,Boult,b
+Rishabh Pant,not out,17,17,38,2,0,100.00,Second Innings,1434,,,not out
+Shreyas Iyer,c Boult b Southee,5,8,14,0,0,62.50,Second Innings,1434,Boult,Southee,caught
+Venkatesh Iyer,c Ravindra b Mitchell,4,2,5,1,0,200.00,Second Innings,1434,Ravindra,Mitchell,caught
+Axar Patel,not out,1,1,4,0,0,100.00,Second Innings,1434,,,not out
+Stephan Baard,lbw b Jadeja,21,21,34,1,1,100.00,First Innings,1410,,Jadeja,lbw
+Michael van Lingen,c Mohammed Shami b Bumrah,14,15,22,2,0,93.33,First Innings,1410,Mohammed Shami,Bumrah,caught
+Craig Williams,st †Pant b Jadeja,0,4,5,0,0,0.00,First Innings,1410,†Pant,Jadeja,stumped
+Gerhard Erasmus,c †Pant b Ashwin,12,20,29,1,0,60.00,First Innings,1410,†Pant,Ashwin,caught
+Jan Nicol Loftie-Eaton,c Sharma b Ashwin,5,5,6,0,0,100.00,First Innings,1410,Sharma,Ashwin,caught
+David Wiese,c Sharma b Bumrah,26,25,39,2,0,104.00,First Innings,1410,Sharma,Bumrah,caught
+JJ Smit,c Sharma b Jadeja,9,9,10,1,0,100.00,First Innings,1410,Sharma,Jadeja,caught
+Zane Green,b Ashwin,0,1,3,0,0,0.00,First Innings,1410,,Ashwin,b
+Jan Frylinck,not out,15,15,22,0,0,100.00,First Innings,1410,,,not out
+Ruben Trumpelmann,not out,13,6,6,1,1,216.66,First Innings,1410,,,not out
+KL Rahul,not out,54,36,72,4,2,150.00,Second Innings,1410,,,not out
+Rohit Sharma,c †Green b Frylinck,56,37,46,7,2,151.35,Second Innings,1410,†Green,Frylinck,caught
+Suryakumar Yadav,not out,25,19,27,4,0,131.57,Second Innings,1410,,,not out
+George Munsey,c Pandya b Mohammed Shami,24,19,24,4,1,126.31,First Innings,1396,Pandya,Mohammed Shami,caught
+Kyle Coetzer,b Bumrah,1,7,12,0,0,14.28,First Innings,1396,,Bumrah,b
+Matthew Cross,lbw b Jadeja,2,9,24,0,0,22.22,First Innings,1396,,Jadeja,lbw
+Richie Berrington,b Jadeja,0,5,7,0,0,0.00,First Innings,1396,,Jadeja,b
+Calum MacLeod,b Mohammed Shami,16,28,46,0,0,57.14,First Innings,1396,,Shami,b
+Michael Leask,lbw b Jadeja,21,12,20,2,1,175.00,First Innings,1396,,Jadeja,lbw
+Chris Greaves,c Pandya b Ashwin,1,7,11,0,0,14.28,First Innings,1396,Pandya,Ashwin,caught
+Mark Watt,b Bumrah,14,13,21,2,0,107.69,First Innings,1396,,Bumrah,b
+Safyaan Sharif,run out (sub [Ishan Kishan]),0,1,2,0,0,0.00,First Innings,1396,,Kishan]),run
+Alasdair Evans,b Mohammed Shami,0,1,2,0,0,0.00,First Innings,1396,,Shami,b
+Brad Wheal,not out,2,4,6,0,0,50.00,First Innings,1396,,,not out
+KL Rahul,c MacLeod b Watt,50,19,34,6,3,263.15,Second Innings,1396,MacLeod,Watt,caught
+Rohit Sharma,lbw b Wheal,30,16,29,5,1,187.50,Second Innings,1396,,Wheal,lbw
+Virat Kohli,not out,2,2,7,0,0,100.00,Second Innings,1396,,,not out
+Suryakumar Yadav,not out,6,2,3,0,1,300.00,Second Innings,1396,,,not out
+KL Rahul,c Mitchell b Southee,18,16,29,3,0,112.50,First Innings,1381,Mitchell,Southee,caught
+Ishan Kishan,c Mitchell b Boult,4,8,14,1,0,50.00,First Innings,1381,Mitchell,Boult,caught
+Rohit Sharma,c Guptill b Sodhi,14,14,23,1,1,100.00,First Innings,1381,Guptill,Sodhi,caught
+Virat Kohli,c Boult b Sodhi,9,17,20,0,0,52.94,First Innings,1381,Boult,Sodhi,caught
+Rishabh Pant,b Milne,12,19,33,0,0,63.15,First Innings,1381,,Milne,b
+Hardik Pandya,c Guptill b Boult,23,24,39,1,0,95.83,First Innings,1381,Guptill,Boult,caught
+Ravindra Jadeja,not out,26,19,27,2,1,136.84,First Innings,1381,,,not out
+Shardul Thakur,c Guptill b Boult,0,3,3,0,0,0.00,First Innings,1381,Guptill,Boult,caught
+Mohammed Shami,not out,0,0,6,0,0,-,First Innings,1381,,,not out
+Martin Guptill,c Thakur b Bumrah,20,17,15,3,0,117.64,Second Innings,1381,Thakur,Bumrah,caught
+Daryl Mitchell,c Rahul b Bumrah,49,35,57,4,3,140.00,Second Innings,1381,Rahul,Bumrah,caught
+Kane Williamson,not out,33,31,53,3,0,106.45,Second Innings,1381,,,not out
+Devon Conway,not out,2,4,10,0,0,50.00,Second Innings,1381,,,not out
+KL Rahul,b Shaheen Shah Afridi,3,8,15,0,0,37.50,First Innings,1361,,Afridi,b
+Rohit Sharma,lbw b Shaheen Shah Afridi,0,1,6,0,0,0.00,First Innings,1361,,Shaheen Shah Afridi,lbw
+Virat Kohli,c †Mohammad Rizwan b Shaheen Shah Afridi,57,49,94,5,1,116.32,First Innings,1361,†Mohammad Rizwan,Shaheen Shah Afridi,caught
+Suryakumar Yadav,c †Mohammad Rizwan b Hasan Ali,11,8,18,1,1,137.50,First Innings,1361,†Mohammad Rizwan,Hasan Ali,caught
+Rishabh Pant,c & b Shadab Khan,39,30,36,2,2,130.00,First Innings,1361,&,Shadab Khan,caught
+Ravindra Jadeja,c sub (Mohammad Nawaz) b Hasan Ali,13,13,28,1,0,100.00,First Innings,1361,sub (Mohammad Nawaz),Hasan Ali,caught
+Hardik Pandya,c Babar Azam b Haris Rauf,11,8,10,2,0,137.50,First Innings,1361,Babar Azam,Haris Rauf,caught
+Bhuvneshwar Kumar,not out,5,4,3,0,0,125.00,First Innings,1361,,,not out
+Mohammed Shami,not out,0,0,-,0,0,-,First Innings,1361,,,not out
+Mohammad Rizwan,not out,79,55,87,6,3,143.63,Second Innings,1361,,,not out
+Babar Azam,not out,68,52,87,6,2,130.76,Second Innings,1361,,,not out
+Ruturaj Gaikwad,lbw b Hasaranga,14,10,29,2,0,140.00,First Innings,1207,,Hasaranga,lbw
+Shikhar Dhawan,c de Silva b Chameera,0,1,6,0,0,0.00,First Innings,1207,de Silva,Chameera,caught
+Devdutt Padikkal,lbw b Mendis,9,15,18,1,0,60.00,First Innings,1207,,Mendis,lbw
+Sanju Samson,lbw b Hasaranga,0,3,4,0,0,0.00,First Innings,1207,,Hasaranga,lbw
+Nitish Rana,c & b Shanaka,6,15,21,0,0,40.00,First Innings,1207,&,Shanaka,caught
+Bhuvneshwar Kumar,c Shanaka b Hasaranga,16,32,37,0,0,50.00,First Innings,1207,Shanaka,Hasaranga,caught
+Kuldeep Yadav,not out,23,28,47,0,0,82.14,First Innings,1207,,,not out
+Rahul Chahar,c †Bhanuka b Shanaka,5,5,8,1,0,100.00,First Innings,1207,†Bhanuka,Shanaka,caught
+Varun Chakravarthy,c Karunaratne b Hasaranga,0,2,5,0,0,0.00,First Innings,1207,Karunaratne,Hasaranga,caught
+Chetan Sakariya,not out,5,9,17,0,0,55.55,First Innings,1207,,,not out
+Avishka Fernando,c & b Chahar,12,18,29,1,0,66.66,Second Innings,1207,&,Chahar,caught
+Minod Bhanuka,lbw b Chahar,18,27,41,1,0,66.66,Second Innings,1207,,Chahar,lbw
+Sadeera Samarawickrama,b Chahar,6,13,32,0,0,46.15,Second Innings,1207,,Chahar,b
+Dhananjaya de Silva,not out,23,20,32,2,0,115.00,Second Innings,1207,,,not out
+Wanindu Hasaranga,not out,14,9,14,1,0,155.55,Second Innings,1207,,,not out
+Ruturaj Gaikwad,c †Bhanuka b Shanaka,21,18,35,1,0,116.66,First Innings,1206,†Bhanuka,Shanaka,caught
+Shikhar Dhawan,b Dananjaya,40,42,53,5,0,95.23,First Innings,1206,,Dananjaya,b
+Devdutt Padikkal,b Hasaranga,29,23,32,1,1,126.08,First Innings,1206,,Hasaranga,b
+Sanju Samson,b Dananjaya,7,13,19,0,0,53.84,First Innings,1206,,Dananjaya,b
+Nitish Rana,c de Silva b Chameera,9,12,21,0,0,75.00,First Innings,1206,de Silva,Chameera,caught
+Bhuvneshwar Kumar,not out,13,11,17,0,0,118.18,First Innings,1206,,,not out
+Navdeep Saini,not out,1,1,1,0,0,100.00,First Innings,1206,,,not out
+Avishka Fernando,c Chahar b Kumar,11,13,13,2,0,84.61,Second Innings,1206,Chahar,Kumar,caught
+Minod Bhanuka,c Chahar b Kuldeep Yadav,36,31,58,4,0,116.12,Second Innings,1206,Chahar,Kuldeep Yadav,caught
+Sadeera Samarawickrama,b Varun,8,12,20,1,0,66.66,Second Innings,1206,,Varun,b
+Dasun Shanaka,st †Samson b Kuldeep Yadav,3,6,12,0,0,50.00,Second Innings,1206,†Samson,Kuldeep Yadav,stumped
+Dhananjaya de Silva,not out,40,34,56,1,1,117.64,Second Innings,1206,,,not out
+Wanindu Hasaranga,c Kumar b Chahar,15,11,18,2,0,136.36,Second Innings,1206,Kumar,Chahar,caught
+Ramesh Mendis,c Gaikwad b Sakariya,2,5,11,0,0,40.00,Second Innings,1206,Gaikwad,Sakariya,caught
+Chamika Karunaratne,not out,12,6,17,0,1,200.00,Second Innings,1206,,,not out
+Prithvi Shaw,c †Bhanuka b Chameera,0,1,-,0,0,0.00,First Innings,1204,†Bhanuka,Chameera,caught
+Shikhar Dhawan,c Bandara b Karunaratne,46,36,-,4,1,127.77,First Innings,1204,Bandara,Karunaratne,caught
+Sanju Samson,lbw b Hasaranga,27,20,-,2,1,135.00,First Innings,1204,,Hasaranga,lbw
+Suryakumar Yadav,c sub (RTM Mendis) b Hasaranga,50,34,-,5,2,147.05,First Innings,1204,sub (RTM Mendis),Hasaranga,caught
+Hardik Pandya,c †Bhanuka b Chameera,10,12,-,0,0,83.33,First Innings,1204,†Bhanuka,Chameera,caught
+Ishan Kishan,not out,20,14,-,1,1,142.85,First Innings,1204,,,not out
+Krunal Pandya,not out,3,3,-,0,0,100.00,First Innings,1204,,,not out
+Avishka Fernando,c Samson b Kumar,26,23,34,3,0,113.04,Second Innings,1204,Samson,Kumar,caught
+Minod Bhanuka,c Yadav b KH Pandya,10,7,14,2,0,142.85,Second Innings,1204,Yadav,KH Pandya,caught
+Dhananjaya de Silva,b Chahal,9,10,16,1,0,90.00,Second Innings,1204,,Chahal,b
+Charith Asalanka,c Shaw b Chahar,44,26,47,3,3,169.23,Second Innings,1204,Shaw,Chahar,caught
+Ashen Bandara,b HH Pandya,9,19,29,0,0,47.36,Second Innings,1204,,Pandya,b
+Dasun Shanaka,st †Ishan Kishan b Varun,16,14,26,0,1,114.28,Second Innings,1204,†Ishan Kishan,Varun,stumped
+Wanindu Hasaranga,b Chahar,0,2,3,0,0,0.00,Second Innings,1204,,Chahar,b
+Chamika Karunaratne,b Kumar,3,4,7,0,0,75.00,Second Innings,1204,,Kumar,b
+Isuru Udana,c Yadav b Kumar,1,2,8,0,0,50.00,Second Innings,1204,Yadav,Kumar,caught
+Dushmantha Chameera,c KH Pandya b Kumar,1,3,8,0,0,33.33,Second Innings,1204,KH Pandya,Kumar,caught
+Akila Dananjaya,not out,1,1,3,0,0,100.00,Second Innings,1204,,,not out
+Rohit Sharma,b Stokes,64,34,42,4,5,188.23,First Innings,1138,,Stokes,b
+Virat Kohli,not out,80,52,103,7,2,153.84,First Innings,1138,,,not out
+Suryakumar Yadav,c Roy b Rashid,32,17,22,3,2,188.23,First Innings,1138,Roy,Rashid,caught
+Hardik Pandya,not out,39,17,37,4,2,229.41,First Innings,1138,,,not out
+Jason Roy,b Kumar,0,2,1,0,0,0.00,Second Innings,1138,,Kumar,b
+Jos Buttler,c Pandya b Kumar,52,34,72,2,4,152.94,Second Innings,1138,Pandya,Kumar,caught
+Dawid Malan,b Thakur,68,46,85,9,2,147.82,Second Innings,1138,,Thakur,b
+Jonny Bairstow,c Yadav b Thakur,7,7,10,1,0,100.00,Second Innings,1138,Yadav,Thakur,caught
+Eoin Morgan,c sub (KL Rahul) b Pandya,1,4,6,0,0,25.00,Second Innings,1138,sub (KL Rahul),Pandya,caught
+Ben Stokes,c †Pant b Natarajan,14,12,20,2,0,116.66,Second Innings,1138,†Pant,Natarajan,caught
+Chris Jordan,c Yadav b Thakur,11,10,23,0,1,110.00,Second Innings,1138,Yadav,Thakur,caught
+Jofra Archer,run out (Yadav/†Pant),1,2,2,0,0,50.00,Second Innings,1138,,(Yadav/†Pant),run
+Sam Curran,not out,14,3,5,0,2,466.66,Second Innings,1138,,,not out
+Adil Rashid,not out,0,0,2,0,0,-,Second Innings,1138,,,not out
+Rohit Sharma,c & b Archer,12,12,17,1,1,100.00,First Innings,1135,&,Archer,caught
+KL Rahul,c Archer b Stokes,14,17,41,2,0,82.35,First Innings,1135,Archer,Stokes,caught
+Suryakumar Yadav,c Malan b Curran,57,31,57,6,3,183.87,First Innings,1135,Malan,Curran,caught
+Virat Kohli,st †Buttler b Rashid,1,5,3,0,0,20.00,First Innings,1135,†Buttler,Rashid,stumped
+Rishabh Pant,b Archer,30,23,48,4,0,130.43,First Innings,1135,,Archer,b
+Shreyas Iyer,c Malan b Archer,37,18,36,5,1,205.55,First Innings,1135,Malan,Archer,caught
+Hardik Pandya,c Stokes b Wood,11,8,14,0,1,137.50,First Innings,1135,Stokes,Wood,caught
+Shardul Thakur,not out,10,4,11,2,0,250.00,First Innings,1135,,,not out
+Washington Sundar,c Rashid b Archer,4,2,5,1,0,200.00,First Innings,1135,Rashid,Archer,caught
+Bhuvneshwar Kumar,not out,0,0,2,0,0,-,First Innings,1135,,,not out
+Jason Roy,c Yadav b Pandya,40,27,49,6,1,148.14,Second Innings,1135,Yadav,Pandya,caught
+Jos Buttler,c Rahul b Kumar,9,6,13,0,1,150.00,Second Innings,1135,Rahul,Kumar,caught
+Dawid Malan,b Chahar,14,17,28,0,1,82.35,Second Innings,1135,,Chahar,b
+Jonny Bairstow,c Washington Sundar b Chahar,25,19,38,2,1,131.57,Second Innings,1135,Washington Sundar,Chahar,caught
+Ben Stokes,c Yadav b Thakur,46,23,41,4,3,200.00,Second Innings,1135,Yadav,Thakur,caught
+Eoin Morgan,c Washington Sundar b Thakur,4,6,11,0,0,66.66,Second Innings,1135,Washington Sundar,Thakur,caught
+Sam Curran,b Pandya,3,5,12,0,0,60.00,Second Innings,1135,,Pandya,b
+Chris Jordan,c Pandya b Thakur,12,9,25,1,0,133.33,Second Innings,1135,Pandya,Thakur,caught
+Jofra Archer,not out,18,8,16,2,1,225.00,Second Innings,1135,,,not out
+Adil Rashid,not out,0,0,1,0,0,-,Second Innings,1135,,,not out
+Rohit Sharma,c Archer b Wood,15,17,22,2,0,88.23,First Innings,1133,Archer,Wood,caught
+KL Rahul,b Wood,0,4,11,0,0,0.00,First Innings,1133,,Wood,b
+Ishan Kishan,c †Buttler b Jordan,4,9,14,0,0,44.44,First Innings,1133,†Buttler,Jordan,caught
+Virat Kohli,not out,77,46,80,8,4,167.39,First Innings,1133,,,not out
+Rishabh Pant,run out (†Buttler/Curran),25,20,28,3,0,125.00,First Innings,1133,,(†Buttler/Curran),run
+Shreyas Iyer,c Malan b Wood,9,9,13,1,0,100.00,First Innings,1133,Malan,Wood,caught
+Hardik Pandya,c Archer b Jordan,17,15,33,0,2,113.33,First Innings,1133,Archer,Jordan,caught
+Jason Roy,c Sharma b Chahal,9,13,19,2,0,69.23,Second Innings,1133,Sharma,Chahal,caught
+Jos Buttler,not out,83,52,96,5,4,159.61,Second Innings,1133,,,not out
+Dawid Malan,st †Pant b Washington Sundar,18,17,32,0,1,105.88,Second Innings,1133,†Pant,Washington Sundar,stumped
+Jonny Bairstow,not out,40,28,43,5,0,142.85,Second Innings,1133,,,not out
+Jason Roy,c Kumar b Washington Sundar,46,35,65,4,2,131.42,First Innings,1132,Kumar,Washington Sundar,caught
+Jos Buttler,lbw b Kumar,0,1,2,0,0,0.00,First Innings,1132,,Kumar,lbw
+Dawid Malan,lbw b Chahal,24,23,43,4,0,104.34,First Innings,1132,,Chahal,lbw
+Jonny Bairstow,c Yadav b Washington Sundar,20,15,31,1,1,133.33,First Innings,1132,Yadav,Washington Sundar,caught
+Eoin Morgan,c †Pant b Thakur,28,20,29,4,0,140.00,First Innings,1132,†Pant,Thakur,caught
+Ben Stokes,c Pandya b Thakur,24,21,27,1,0,114.28,First Innings,1132,Pandya,Thakur,caught
+Sam Curran,not out,6,5,11,1,0,120.00,First Innings,1132,,,not out
+Chris Jordan,not out,0,0,1,0,0,-,First Innings,1132,,,not out
+KL Rahul,c †Buttler b SM Curran,0,6,3,0,0,0.00,Second Innings,1132,†Buttler,SM Curran,caught
+Ishan Kishan,lbw b Rashid,56,32,48,5,4,175.00,Second Innings,1132,,Rashid,lbw
+Virat Kohli,not out,73,49,85,5,3,148.97,Second Innings,1132,,,not out
+Rishabh Pant,c Bairstow b Jordan,26,13,17,2,2,200.00,Second Innings,1132,Bairstow,Jordan,caught
+Shreyas Iyer,not out,8,8,22,0,0,100.00,Second Innings,1132,,,not out
+Shikhar Dhawan,b Wood,4,12,23,0,0,33.33,First Innings,1131,,Wood,b
+KL Rahul,b Archer,1,4,5,0,0,25.00,First Innings,1131,,Archer,b
+Virat Kohli,c Jordan b Rashid,0,5,6,0,0,0.00,First Innings,1131,Jordan,Rashid,caught
+Rishabh Pant,c Bairstow b Stokes,21,23,34,2,1,91.30,First Innings,1131,Bairstow,Stokes,caught
+Shreyas Iyer,c Malan b Jordan,67,48,75,8,1,139.58,First Innings,1131,Malan,Jordan,caught
+Hardik Pandya,c Jordan b Archer,19,21,37,1,1,90.47,First Innings,1131,Jordan,Archer,caught
+Shardul Thakur,c Malan b Archer,0,1,1,0,0,0.00,First Innings,1131,Malan,Archer,caught
+Washington Sundar,not out,3,3,15,0,0,100.00,First Innings,1131,,,not out
+Axar Patel,not out,7,3,3,1,0,233.33,First Innings,1131,,,not out
+Jason Roy,lbw b Washington Sundar,49,32,52,4,3,153.12,Second Innings,1131,,Washington Sundar,lbw
+Jos Buttler,lbw b Chahal,28,24,34,2,1,116.66,Second Innings,1131,,Chahal,lbw
+Dawid Malan,not out,24,20,40,2,1,120.00,Second Innings,1131,,,not out
+Jonny Bairstow,not out,26,17,22,1,2,152.94,Second Innings,1131,,,not out
+Finn Allen,lbw b Arshdeep Singh,3,4,8,0,0,75.00,First Innings,1911,,Arshdeep Singh,lbw
+Devon Conway,c Ishan Kishan b Arshdeep Singh,59,49,82,5,2,120.40,First Innings,1911,Ishan Kishan,Arshdeep Singh,caught
+Mark Chapman,c Arshdeep Singh b Mohammed Siraj,12,12,18,2,0,100.00,First Innings,1911,Arshdeep Singh,Mohammed Siraj,caught
+Glenn Phillips,c Kumar b Mohammed Siraj,54,33,49,5,3,163.63,First Innings,1911,Kumar,Mohammed Siraj,caught
+Daryl Mitchell,c †Pant b Arshdeep Singh,10,5,16,2,0,200.00,First Innings,1911,†Pant,Arshdeep Singh,caught
+James Neesham,c †Pant b Mohammed Siraj,0,3,3,0,0,0.00,First Innings,1911,†Pant,Mohammed Siraj,caught
+Mitchell Santner,c Chahal b Mohammed Siraj,1,3,3,0,0,33.33,First Innings,1911,Chahal,Mohammed Siraj,caught
+Adam Milne,run out (Mohammed Siraj),0,1,5,0,0,0.00,First Innings,1911,,Siraj),run
+Ish Sodhi,b Arshdeep Singh,0,1,1,0,0,0.00,First Innings,1911,,Singh,b
+Tim Southee,b Patel,6,5,7,1,0,120.00,First Innings,1911,,Patel,b
+Lockie Ferguson,not out,5,3,5,0,0,166.66,First Innings,1911,,,not out
+Ishan Kishan,c Chapman b Milne,10,11,13,1,1,90.90,Second Innings,1911,Chapman,Milne,caught
+Rishabh Pant,c Sodhi b Southee,11,5,17,2,0,220.00,Second Innings,1911,Sodhi,Southee,caught
+Suryakumar Yadav,c Phillips b Sodhi,13,10,25,1,1,130.00,Second Innings,1911,Phillips,Sodhi,caught
+Shreyas Iyer,c Neesham b Southee,0,1,1,0,0,0.00,Second Innings,1911,Neesham,Southee,caught
+Hardik Pandya,not out,30,18,29,3,1,166.66,Second Innings,1911,,,not out
+Deepak Hooda,not out,9,9,9,0,0,100.00,Second Innings,1911,,,not out
+Ishan Kishan,c Southee b Sodhi,36,31,49,5,1,116.12,First Innings,1898,Southee,Sodhi,caught
+Rishabh Pant,c Southee b Ferguson,6,13,34,1,0,46.15,First Innings,1898,Southee,Ferguson,caught
+Suryakumar Yadav,not out,111,51,72,11,7,217.64,First Innings,1898,,,not out
+Shreyas Iyer,hit wicket b Ferguson,13,9,17,1,1,144.44,First Innings,1898,,Ferguson,hit wicket
+Hardik Pandya,c Neesham b Southee,13,13,27,0,0,100.00,First Innings,1898,Neesham,Southee,caught
+Deepak Hooda,c Ferguson b Southee,0,1,2,0,0,0.00,First Innings,1898,Ferguson,Southee,caught
+Washington Sundar,c Neesham b Southee,0,1,2,0,0,0.00,First Innings,1898,Neesham,Southee,caught
+Bhuvneshwar Kumar,not out,1,1,1,0,0,100.00,First Innings,1898,,,not out
+Finn Allen,c Arshdeep Singh b Kumar,0,2,3,0,0,0.00,Second Innings,1898,Arshdeep Singh,Kumar,caught
+Devon Conway,c Arshdeep Singh b Washington Sundar,25,22,43,3,0,113.63,Second Innings,1898,Arshdeep Singh,Washington Sundar,caught
+Kane Williamson,b Mohammed Siraj,61,52,93,4,2,117.30,Second Innings,1898,,Siraj,b
+Glenn Phillips,b Chahal,12,6,7,1,1,200.00,Second Innings,1898,,Chahal,b
+Daryl Mitchell,c Iyer b Hooda,10,11,17,0,0,90.90,Second Innings,1898,Iyer,Hooda,caught
+James Neesham,c Ishan Kishan b Chahal,0,3,5,0,0,0.00,Second Innings,1898,Ishan Kishan,Chahal,caught
+Mitchell Santner,c & b Mohammed Siraj,2,7,12,0,0,28.57,Second Innings,1898,&,Mohammed Siraj,caught
+Adam Milne,c Arshdeep Singh b Hooda,6,5,8,0,1,120.00,Second Innings,1898,Arshdeep Singh,Hooda,caught
+Ish Sodhi,st †Pant b Hooda,1,3,4,0,0,33.33,Second Innings,1898,†Pant,Hooda,stumped
+Tim Southee,c †Pant b Hooda,0,1,2,0,0,0.00,Second Innings,1898,†Pant,Hooda,caught
+Lockie Ferguson,not out,1,1,1,0,0,100.00,Second Innings,1898,,,not out
+KL Rahul,c †Buttler b Woakes,5,5,8,1,0,100.00,First Innings,1878,†Buttler,Woakes,caught
+Rohit Sharma,c Curran b Jordan,27,28,37,4,0,96.42,First Innings,1878,Curran,Jordan,caught
+Virat Kohli,c Rashid b Jordan,50,40,75,4,1,125.00,First Innings,1878,Rashid,Jordan,caught
+Suryakumar Yadav,c Salt b Rashid,14,10,14,1,1,140.00,First Innings,1878,Salt,Rashid,caught
+Hardik Pandya,hit wicket b Jordan,63,33,47,4,5,190.90,First Innings,1878,,Jordan,hit wicket
+Rishabh Pant,run out (†Buttler/Jordan),6,4,13,1,0,150.00,First Innings,1878,,(†Buttler/Jordan),run
+Ravichandran Ashwin,not out,0,0,4,0,0,-,First Innings,1878,,,not out
+Jos Buttler,not out,80,49,74,9,3,163.26,Second Innings,1878,,,not out
+Alex Hales,not out,86,47,74,4,7,182.97,Second Innings,1878,,,not out
+KL Rahul,c Masakadza b Sikandar Raza,51,35,59,3,3,145.71,First Innings,1873,Masakadza,Sikandar Raza,caught
+Rohit Sharma,c Masakadza b Muzarabani,15,13,20,2,0,115.38,First Innings,1873,Masakadza,Muzarabani,caught
+Virat Kohli,c Burl b Williams,26,25,36,2,0,104.00,First Innings,1873,Burl,Williams,caught
+Suryakumar Yadav,not out,61,25,44,6,4,244.00,First Innings,1873,,,not out
+Rishabh Pant,c Burl b Williams,3,5,7,0,0,60.00,First Innings,1873,Burl,Williams,caught
+Hardik Pandya,c Muzarabani b Ngarava,18,18,29,2,0,100.00,First Innings,1873,Muzarabani,Ngarava,caught
+Axar Patel,not out,0,0,6,0,0,-,First Innings,1873,,,not out
+Wessly Madhevere,c Kohli b Kumar,0,1,1,0,0,0.00,Second Innings,1873,Kohli,Kumar,caught
+Craig Ervine,c & b Pandya,13,15,37,2,0,86.66,Second Innings,1873,&,Pandya,caught
+Regis Chakabva,b Arshdeep Singh,0,6,9,0,0,0.00,Second Innings,1873,,Singh,b
+Sean Williams,c Kumar b Mohammed Shami,11,18,22,0,1,61.11,Second Innings,1873,Kumar,Mohammed Shami,caught
+Sikandar Raza,c Yadav b Pandya,34,24,53,3,0,141.66,Second Innings,1873,Yadav,Pandya,caught
+Tony Munyonga,lbw b Mohammed Shami,5,4,6,1,0,125.00,Second Innings,1873,,Mohammed Shami,lbw
+Ryan Burl,b Ashwin,35,22,27,5,1,159.09,Second Innings,1873,,Ashwin,b
+Wellington Masakadza,c Sharma b Ashwin,1,7,8,0,0,14.28,Second Innings,1873,Sharma,Ashwin,caught
+Richard Ngarava,b Ashwin,1,2,4,0,0,50.00,Second Innings,1873,,Ashwin,b
+Tendai Chatara,c & b Patel,4,4,11,1,0,100.00,Second Innings,1873,&,Patel,caught
+Blessing Muzarabani,not out,0,2,5,0,0,0.00,Second Innings,1873,,,not out
+KL Rahul,c Mustafizur Rahman b Shakib Al Hasan,50,32,49,3,4,156.25,First Innings,1860,Mustafizur Rahman,Shakib Al Hasan,caught
+Rohit Sharma,c Yasir Ali b Hasan Mahmud,2,8,18,0,0,25.00,First Innings,1860,Yasir Ali,Hasan Mahmud,caught
+Virat Kohli,not out,64,44,84,8,1,145.45,First Innings,1860,,,not out
+Suryakumar Yadav,b Shakib Al Hasan,30,16,18,4,0,187.50,First Innings,1860,,Hasan,b
+Hardik Pandya,c Yasir Ali b Hasan Mahmud,5,6,8,0,0,83.33,First Innings,1860,Yasir Ali,Hasan Mahmud,caught
+Dinesh Karthik,run out (Shakib Al Hasan/Shoriful Islam),7,5,12,1,0,140.00,First Innings,1860,,Islam),run
+Axar Patel,c Shakib Al Hasan b Hasan Mahmud,7,6,6,1,0,116.66,First Innings,1860,Shakib Al Hasan,Hasan Mahmud,caught
+Ravichandran Ashwin,not out,13,6,9,1,1,216.66,First Innings,1860,,,not out
+Najmul Hossain Shanto,c Yadav b Mohammed Shami,21,25,50,1,1,84.00,Second Innings,1860,Yadav,Mohammed Shami,caught
+Litton Das,run out (Rahul),60,27,40,7,3,222.22,Second Innings,1860,,(Rahul),run
+Shakib Al Hasan,c sub (DJ Hooda) b Arshdeep Singh,13,12,24,2,0,108.33,Second Innings,1860,sub (DJ Hooda),Arshdeep Singh,caught
+Afif Hossain,c Yadav b Arshdeep Singh,3,5,12,0,0,60.00,Second Innings,1860,Yadav,Arshdeep Singh,caught
+Yasir Ali,c Arshdeep Singh b Pandya,1,3,8,0,0,33.33,Second Innings,1860,Arshdeep Singh,Pandya,caught
+Nurul Hasan,not out,25,14,29,2,1,178.57,Second Innings,1860,,,not out
+Mosaddek Hossain,b Pandya,6,3,4,0,1,200.00,Second Innings,1860,,Pandya,b
+Taskin Ahmed,not out,12,7,22,1,1,171.42,Second Innings,1860,,,not out
+KL Rahul,c Markram b Ngidi,9,14,25,0,1,64.28,First Innings,1853,Markram,Ngidi,caught
+Rohit Sharma,c & b Ngidi,15,14,22,1,1,107.14,First Innings,1853,&,Ngidi,caught
+Virat Kohli,c Rabada b Ngidi,12,11,13,2,0,109.09,First Innings,1853,Rabada,Ngidi,caught
+Suryakumar Yadav,c Maharaj b Parnell,68,40,68,6,3,170.00,First Innings,1853,Maharaj,Parnell,caught
+Deepak Hooda,c †de Kock b Nortje,0,3,4,0,0,0.00,First Innings,1853,†de Kock,Nortje,caught
+Hardik Pandya,c Rabada b Ngidi,2,3,6,0,0,66.66,First Innings,1853,Rabada,Ngidi,caught
+Dinesh Karthik,c Rossouw b Parnell,6,15,33,0,0,40.00,First Innings,1853,Rossouw,Parnell,caught
+Ravichandran Ashwin,c Rabada b Parnell,7,11,15,0,0,63.63,First Innings,1853,Rabada,Parnell,caught
+Bhuvneshwar Kumar,not out,4,6,9,0,0,66.66,First Innings,1853,,,not out
+Mohammed Shami,run out (Nortje),0,2,5,0,0,0.00,First Innings,1853,,(Nortje),run
+Arshdeep Singh,not out,2,1,2,0,0,200.00,First Innings,1853,,,not out
+Quinton de Kock,c Rahul b Arshdeep Singh,1,3,7,0,0,33.33,Second Innings,1853,Rahul,Arshdeep Singh,caught
+Temba Bavuma,c †Karthik b Mohammed Shami,10,15,30,0,1,66.66,Second Innings,1853,†Karthik,Mohammed Shami,caught
+Rilee Rossouw,lbw b Arshdeep Singh,0,2,4,0,0,0.00,Second Innings,1853,,Arshdeep Singh,lbw
+Aiden Markram,c Yadav b Pandya,52,41,72,6,1,126.82,Second Innings,1853,Yadav,Pandya,caught
+David Miller,not out,59,46,78,4,3,128.26,Second Innings,1853,,,not out
+Tristan Stubbs,lbw b Ashwin,6,6,15,1,0,100.00,Second Innings,1853,,Ashwin,lbw
+Wayne Parnell,not out,2,5,11,0,0,40.00,Second Innings,1853,,,not out
+KL Rahul,lbw b van Meekeren,9,12,12,1,0,75.00,First Innings,1848,,van Meekeren,lbw
+Rohit Sharma,c Ackermann b Klaassen,53,39,53,4,3,135.89,First Innings,1848,Ackermann,Klaassen,caught
+Virat Kohli,not out,62,44,79,3,2,140.90,First Innings,1848,,,not out
+Suryakumar Yadav,not out,51,25,38,7,1,204.00,First Innings,1848,,,not out
+Vikramjit Singh,b Kumar,1,9,13,0,0,11.11,Second Innings,1848,,Kumar,b
+Max O'Dowd,b Patel,16,10,22,3,0,160.00,Second Innings,1848,,Patel,b
+Bas de Leede,c Pandya b Patel,16,23,27,0,0,69.56,Second Innings,1848,Pandya,Patel,caught
+Colin Ackermann,c Patel b Ashwin,17,21,31,1,0,80.95,Second Innings,1848,Patel,Ashwin,caught
+Tom Cooper,c sub (DJ Hooda) b Ashwin,9,12,12,0,0,75.00,Second Innings,1848,sub (DJ Hooda),Ashwin,caught
+Scott Edwards,c sub (DJ Hooda) b Kumar,5,8,21,0,0,62.50,Second Innings,1848,sub (DJ Hooda),Kumar,caught
+Tim Pringle,c Kohli b Mohammed Shami,20,15,14,1,1,133.33,Second Innings,1848,Kohli,Mohammed Shami,caught
+Logan van Beek,c †Karthik b Arshdeep Singh,3,5,11,0,0,60.00,Second Innings,1848,†Karthik,Arshdeep Singh,caught
+Shariz Ahmad,not out,16,11,18,2,0,145.45,Second Innings,1848,,,not out
+Fred Klaassen,lbw b Arshdeep Singh,0,1,3,0,0,0.00,Second Innings,1848,,Arshdeep Singh,lbw
+Paul van Meekeren,not out,14,6,9,3,0,233.33,Second Innings,1848,,,not out
+Mohammad Rizwan,c Kumar b Arshdeep Singh,4,12,25,1,0,33.33,First Innings,1842,Kumar,Arshdeep Singh,caught
+Babar Azam,lbw b Arshdeep Singh,0,1,10,0,0,0.00,First Innings,1842,,Arshdeep Singh,lbw
+Shan Masood,not out,52,42,101,5,0,123.80,First Innings,1842,,,not out
+Iftikhar Ahmed,lbw b Mohammed Shami,51,34,43,2,4,150.00,First Innings,1842,,Mohammed Shami,lbw
+Shadab Khan,c Yadav b Pandya,5,6,6,1,0,83.33,First Innings,1842,Yadav,Pandya,caught
+Haider Ali,c Yadav b Pandya,2,4,6,0,0,50.00,First Innings,1842,Yadav,Pandya,caught
+Mohammad Nawaz,c †Karthik b Pandya,9,6,12,2,0,150.00,First Innings,1842,†Karthik,Pandya,caught
+Asif Ali,c †Karthik b Arshdeep Singh,2,3,6,0,0,66.66,First Innings,1842,†Karthik,Arshdeep Singh,caught
+Shaheen Shah Afridi,c & b Kumar,16,8,17,1,1,200.00,First Innings,1842,&,Kumar,caught
+Haris Rauf,not out,6,4,3,0,1,150.00,First Innings,1842,,,not out
+KL Rahul,b Naseem Shah,4,8,13,0,0,50.00,Second Innings,1842,,Shah,b
+Rohit Sharma,c Iftikhar Ahmed b Haris Rauf,4,7,20,0,0,57.14,Second Innings,1842,Iftikhar Ahmed,Haris Rauf,caught
+Virat Kohli,not out,82,53,98,6,4,154.71,Second Innings,1842,,,not out
+Suryakumar Yadav,c †Mohammad Rizwan b Haris Rauf,15,10,11,2,0,150.00,Second Innings,1842,†Mohammad Rizwan,Haris Rauf,caught
+Axar Patel,run out (Babar Azam/†Mohammad Rizwan),2,3,7,0,0,66.66,Second Innings,1842,,Rizwan),run
+Hardik Pandya,c Babar Azam b Mohammad Nawaz,40,37,61,1,2,108.10,Second Innings,1842,Babar Azam,Mohammad Nawaz,caught
+Dinesh Karthik,st †Mohammad Rizwan b Mohammad Nawaz,1,2,10,0,0,50.00,Second Innings,1842,†Mohammad Rizwan,Mohammad Nawaz,stumped
+Ravichandran Ashwin,not out,1,1,2,0,0,100.00,Second Innings,1842,,,not out
+Quinton de Kock,run out (Iyer/†Pant),68,43,59,6,4,158.13,First Innings,1805,,(Iyer/†Pant),run
+Temba Bavuma,c Sharma b UT Yadav,3,8,21,0,0,37.50,First Innings,1805,Sharma,UT Yadav,caught
+Rilee Rossouw,not out,100,48,80,7,8,208.33,First Innings,1805,,,not out
+Tristan Stubbs,c Ashwin b Chahar,23,18,39,2,1,127.77,First Innings,1805,Ashwin,Chahar,caught
+David Miller,not out,19,5,4,0,3,380.00,First Innings,1805,,,not out
+Rohit Sharma,b Rabada,0,2,3,0,0,0.00,Second Innings,1805,,Rabada,b
+Rishabh Pant,c Stubbs b Ngidi,27,14,28,3,2,192.85,Second Innings,1805,Stubbs,Ngidi,caught
+Shreyas Iyer,lbw b Parnell,1,4,9,0,0,25.00,Second Innings,1805,,Parnell,lbw
+Dinesh Karthik,b Maharaj,46,21,27,4,4,219.04,Second Innings,1805,,Maharaj,b
+Suryakumar Yadav,c Stubbs b Pretorius,8,6,17,0,1,133.33,Second Innings,1805,Stubbs,Pretorius,caught
+Axar Patel,c †de Kock b Parnell,9,8,29,1,0,112.50,Second Innings,1805,†de Kock,Parnell,caught
+Harshal Patel,c Miller b Ngidi,17,12,17,2,1,141.66,Second Innings,1805,Miller,Ngidi,caught
+Ravichandran Ashwin,c Rabada b Maharaj,2,4,11,0,0,50.00,Second Innings,1805,Rabada,Maharaj,caught
+Deepak Chahar,c Miller b Pretorius,31,17,26,2,3,182.35,Second Innings,1805,Miller,Pretorius,caught
+Umesh Yadav,not out,20,17,30,2,0,117.64,Second Innings,1805,,,not out
+Mohammed Siraj,c Miller b Pretorius,5,7,10,1,0,71.42,Second Innings,1805,Miller,Pretorius,caught
+Quinton de Kock,b Arshdeep Singh,1,4,9,0,0,25.00,First Innings,1800,,Singh,b
+Temba Bavuma,b Chahar,0,4,5,0,0,0.00,First Innings,1800,,Chahar,b
+Rilee Rossouw,c †Pant b Arshdeep Singh,0,1,8,0,0,0.00,First Innings,1800,†Pant,Arshdeep Singh,caught
+Aiden Markram,lbw b HV Patel,25,24,38,3,1,104.16,First Innings,1800,,HV Patel,lbw
+David Miller,b Arshdeep Singh,0,1,3,0,0,0.00,First Innings,1800,,Singh,b
+Tristan Stubbs,c Arshdeep Singh b Chahar,0,1,3,0,0,0.00,First Innings,1800,Arshdeep Singh,Chahar,caught
+Wayne Parnell,c Yadav b AR Patel,24,37,58,1,1,64.86,First Innings,1800,Yadav,AR Patel,caught
+Keshav Maharaj,b HV Patel,41,35,48,5,2,117.14,First Innings,1800,,Patel,b
+Kagiso Rabada,not out,7,11,22,0,0,63.63,First Innings,1800,,,not out
+Anrich Nortje,not out,2,2,5,0,0,100.00,First Innings,1800,,,not out
+KL Rahul,not out,51,56,83,2,4,91.07,Second Innings,1800,,,not out
+Rohit Sharma,c †de Kock b Rabada,0,2,14,0,0,0.00,Second Innings,1800,†de Kock,Rabada,caught
+Virat Kohli,c †de Kock b Nortje,3,9,19,0,0,33.33,Second Innings,1800,†de Kock,Nortje,caught
+Suryakumar Yadav,not out,50,33,52,5,3,151.51,Second Innings,1800,,,not out
+Cameron Green,c Rahul b Kumar,52,21,25,7,3,247.61,First Innings,1796,Rahul,Kumar,caught
+Aaron Finch,c Pandya b AR Patel,7,6,18,1,0,116.66,First Innings,1796,Pandya,AR Patel,caught
+Steven Smith,st †Karthik b Chahal,9,10,30,1,0,90.00,First Innings,1796,†Karthik,Chahal,stumped
+Glenn Maxwell,run out (AR Patel),6,11,14,1,0,54.54,First Innings,1796,,Patel),run
+Josh Inglis,c Sharma b AR Patel,24,22,32,3,0,109.09,First Innings,1796,Sharma,AR Patel,caught
+Tim David,c Sharma b HV Patel,54,27,53,2,4,200.00,First Innings,1796,Sharma,HV Patel,caught
+Matthew Wade,c & b AR Patel,1,3,4,0,0,33.33,First Innings,1796,&,AR Patel,caught
+Daniel Sams,not out,28,20,31,1,2,140.00,First Innings,1796,,,not out
+Pat Cummins,not out,0,1,3,0,0,0.00,First Innings,1796,,,not out
+KL Rahul,c †Wade b Sams,1,4,6,0,0,25.00,Second Innings,1796,†Wade,Sams,caught
+Rohit Sharma,c Sams b Cummins,17,14,19,2,1,121.42,Second Innings,1796,Sams,Cummins,caught
+Virat Kohli,c Finch b Sams,63,48,89,3,4,131.25,Second Innings,1796,Finch,Sams,caught
+Suryakumar Yadav,c Finch b Hazlewood,69,36,45,5,5,191.66,Second Innings,1796,Finch,Hazlewood,caught
+Hardik Pandya,not out,25,16,34,2,1,156.25,Second Innings,1796,,,not out
+Dinesh Karthik,not out,1,1,4,0,0,100.00,Second Innings,1796,,,not out
+Aaron Finch,b Bumrah,31,15,-,4,1,206.66,First Innings,1794,,Bumrah,b
+Cameron Green,run out (Kohli/AR Patel),5,4,-,1,0,125.00,First Innings,1794,,Patel),run
+Glenn Maxwell,b AR Patel,0,1,-,0,0,0.00,First Innings,1794,,Patel,b
+Tim David,b AR Patel,2,3,-,0,0,66.66,First Innings,1794,,Patel,b
+Matthew Wade,not out,43,20,-,4,3,215.00,First Innings,1794,,,not out
+Steven Smith,run out (HV Patel),8,5,-,1,0,160.00,First Innings,1794,,Patel),run
+KL Rahul,b Zampa,10,6,-,0,1,166.66,Second Innings,1794,,Zampa,b
+Rohit Sharma,not out,46,20,-,4,4,230.00,Second Innings,1794,,,not out
+Virat Kohli,b Zampa,11,6,-,2,0,183.33,Second Innings,1794,,Zampa,b
+Suryakumar Yadav,lbw b Zampa,0,1,-,0,0,0.00,Second Innings,1794,,Zampa,lbw
+Hardik Pandya,c Finch b Cummins,9,9,-,1,0,100.00,Second Innings,1794,Finch,Cummins,caught
+Dinesh Karthik,not out,10,2,-,1,1,500.00,Second Innings,1794,,,not out
+KL Rahul,c Ellis b Hazlewood,55,35,58,4,3,157.14,First Innings,1788,Ellis,Hazlewood,caught
+Rohit Sharma,c Ellis b Hazlewood,11,9,13,1,1,122.22,First Innings,1788,Ellis,Hazlewood,caught
+Virat Kohli,c Green b Ellis,2,7,12,0,0,28.57,First Innings,1788,Green,Ellis,caught
+Suryakumar Yadav,c †Wade b Green,46,25,43,2,4,184.00,First Innings,1788,†Wade,Green,caught
+Hardik Pandya,not out,71,30,47,7,5,236.66,First Innings,1788,,,not out
+Axar Patel,c Green b Ellis,6,5,13,1,0,120.00,First Innings,1788,Green,Ellis,caught
+Dinesh Karthik,lbw b Ellis,6,5,17,0,0,120.00,First Innings,1788,,Ellis,lbw
+Harshal Patel,not out,7,4,10,1,0,175.00,First Innings,1788,,,not out
+Aaron Finch,b AR Patel,22,13,16,3,1,169.23,Second Innings,1788,,Patel,b
+Cameron Green,c Kohli b AR Patel,61,30,49,8,4,203.33,Second Innings,1788,Kohli,AR Patel,caught
+Steven Smith,c †Karthik b UT Yadav,35,24,39,3,1,145.83,Second Innings,1788,†Karthik,UT Yadav,caught
+Glenn Maxwell,c †Karthik b UT Yadav,1,3,11,0,0,33.33,Second Innings,1788,†Karthik,UT Yadav,caught
+Josh Inglis,b AR Patel,17,10,15,3,0,170.00,Second Innings,1788,,Patel,b
+Tim David,c Pandya b Chahal,18,14,38,1,1,128.57,Second Innings,1788,Pandya,Chahal,caught
+Matthew Wade,not out,45,21,29,6,2,214.28,Second Innings,1788,,,not out
+Pat Cummins,not out,4,1,2,1,0,400.00,Second Innings,1788,,,not out
+KL Rahul,c Najibullah Zadran b Fareed Ahmad,62,41,54,6,2,151.21,First Innings,1761,Najibullah Zadran,Fareed Ahmad,caught
+Virat Kohli,not out,122,61,90,12,6,200.00,First Innings,1761,,,not out
+Suryakumar Yadav,b Fareed Ahmad,6,2,3,0,1,300.00,First Innings,1761,,Ahmad,b
+Rishabh Pant,not out,20,16,34,3,0,125.00,First Innings,1761,,,not out
+Hazratullah Zazai,lbw b Kumar,0,4,5,0,0,0.00,Second Innings,1761,,Kumar,lbw
+Rahmanullah Gurbaz,b Kumar,0,1,7,0,0,0.00,Second Innings,1761,,Kumar,b
+Ibrahim Zadran,not out,64,59,79,4,2,108.47,Second Innings,1761,,,not out
+Karim Janat,c Kohli b Kumar,2,4,8,0,0,50.00,Second Innings,1761,Kohli,Kumar,caught
+Najibullah Zadran,lbw b Kumar,0,2,3,0,0,0.00,Second Innings,1761,,Kumar,lbw
+Mohammad Nabi,lbw b Arshdeep Singh,7,7,14,1,0,100.00,Second Innings,1761,,Arshdeep Singh,lbw
+Azmatullah Omarzai,c Karthik b Kumar,1,6,6,0,0,16.66,Second Innings,1761,Karthik,Kumar,caught
+Rashid Khan,c Patel b Hooda,15,19,24,2,0,78.94,Second Innings,1761,Patel,Hooda,caught
+Mujeeb Ur Rahman,b Ashwin,18,13,18,2,1,138.46,Second Innings,1761,,Ashwin,b
+Fareed Ahmad,not out,1,5,8,0,0,20.00,Second Innings,1761,,,not out
+KL Rahul,lbw b Theekshana,6,7,14,1,0,85.71,First Innings,1759,,Theekshana,lbw
+Rohit Sharma,c Nissanka b Karunaratne,72,41,70,5,4,175.60,First Innings,1759,Nissanka,Karunaratne,caught
+Virat Kohli,b Madushanka,0,4,6,0,0,0.00,First Innings,1759,,Madushanka,b
+Suryakumar Yadav,c Theekshana b Shanaka,34,29,60,1,1,117.24,First Innings,1759,Theekshana,Shanaka,caught
+Hardik Pandya,c Nissanka b Shanaka,17,13,25,0,1,130.76,First Innings,1759,Nissanka,Shanaka,caught
+Rishabh Pant,c Nissanka b Madushanka,17,13,24,3,0,130.76,First Innings,1759,Nissanka,Madushanka,caught
+Deepak Hooda,b Madushanka,3,4,8,0,0,75.00,First Innings,1759,,Madushanka,b
+Ravichandran Ashwin,not out,15,7,13,0,1,214.28,First Innings,1759,,,not out
+Bhuvneshwar Kumar,b Karunaratne,0,2,6,0,0,0.00,First Innings,1759,,Karunaratne,b
+Arshdeep Singh,not out,1,1,4,0,0,100.00,First Innings,1759,,,not out
+Pathum Nissanka,c Sharma b Chahal,52,37,48,4,2,140.54,Second Innings,1759,Sharma,Chahal,caught
+Kusal Mendis,lbw b Chahal,57,37,66,4,3,154.05,Second Innings,1759,,Chahal,lbw
+Charith Asalanka,c Yadav b Chahal,0,3,4,0,0,0.00,Second Innings,1759,Yadav,Chahal,caught
+Danushka Gunathilaka,c Rahul b Ashwin,1,7,11,0,0,14.28,Second Innings,1759,Rahul,Ashwin,caught
+Bhanuka Rajapaksa,not out,25,17,36,0,2,147.05,Second Innings,1759,,,not out
+Dasun Shanaka,not out,33,18,33,4,1,183.33,Second Innings,1759,,,not out
+KL Rahul,c Mohammad Nawaz b Shadab Khan,28,20,34,1,2,140.00,First Innings,1758,Mohammad Nawaz,Shadab Khan,caught
+Rohit Sharma,c Khushdil Shah b Haris Rauf,28,16,27,3,2,175.00,First Innings,1758,Khushdil Shah,Haris Rauf,caught
+Virat Kohli,run out (Asif Ali),60,44,77,4,1,136.36,First Innings,1758,,Ali),run
+Suryakumar Yadav,c Asif Ali b Mohammad Nawaz,13,10,13,2,0,130.00,First Innings,1758,Asif Ali,Mohammad Nawaz,caught
+Rishabh Pant,c Asif Ali b Shadab Khan,14,12,23,2,0,116.66,First Innings,1758,Asif Ali,Shadab Khan,caught
+Hardik Pandya,c Mohammad Nawaz b Mohammad Hasnain,0,2,5,0,0,0.00,First Innings,1758,Mohammad Nawaz,Mohammad Hasnain,caught
+Deepak Hooda,c Mohammad Nawaz b Naseem Shah,16,14,23,2,0,114.28,First Innings,1758,Mohammad Nawaz,Naseem Shah,caught
+Bhuvneshwar Kumar,not out,0,0,9,0,0,-,First Innings,1758,,,not out
+Ravi Bishnoi,not out,8,2,3,2,0,400.00,First Innings,1758,,,not out
+Mohammad Rizwan,c Yadav b Pandya,71,51,90,6,2,139.21,Second Innings,1758,Yadav,Pandya,caught
+Babar Azam,c Sharma b Ravi Bishnoi,14,10,20,2,0,140.00,Second Innings,1758,Sharma,Ravi Bishnoi,caught
+Fakhar Zaman,c Kohli b Chahal,15,18,24,2,0,83.33,Second Innings,1758,Kohli,Chahal,caught
+Mohammad Nawaz,c Hooda b Kumar,42,20,37,6,2,210.00,Second Innings,1758,Hooda,Kumar,caught
+Khushdil Shah,not out,14,11,38,1,0,127.27,Second Innings,1758,,,not out
+Asif Ali,lbw b Arshdeep Singh,16,8,27,2,1,200.00,Second Innings,1758,,Arshdeep Singh,lbw
+Iftikhar Ahmed,not out,2,1,2,0,0,200.00,Second Innings,1758,,,not out
+KL Rahul,c †McKechnie b Mohammad Ghazanfar,36,39,62,0,2,92.30,First Innings,1754,†McKechnie,Mohammad Ghazanfar,caught
+Rohit Sharma,c Aizaz Khan b Shukla,21,13,28,2,1,161.53,First Innings,1754,Aizaz Khan,Shukla,caught
+Virat Kohli,not out,59,44,74,1,3,134.09,First Innings,1754,,,not out
+Suryakumar Yadav,not out,68,26,39,6,6,261.53,First Innings,1754,,,not out
+Nizakat Khan,run out (Jadeja),10,12,31,1,0,83.33,Second Innings,1754,,(Jadeja),run
+Yasim Murtaza,c Avesh Khan b Arshdeep Singh,9,9,9,2,0,100.00,Second Innings,1754,Avesh Khan,Arshdeep Singh,caught
+Babar Hayat,c Avesh Khan b Jadeja,41,35,42,3,2,117.14,Second Innings,1754,Avesh Khan,Jadeja,caught
+Kinchit Shah,c sub (Ravi Bishnoi) b Kumar,30,28,50,2,1,107.14,Second Innings,1754,sub (Ravi Bishnoi),Kumar,caught
+Aizaz Khan,b Avesh Khan,14,13,19,2,0,107.69,Second Innings,1754,,Khan,b
+Zeeshan Ali,not out,26,17,26,2,1,152.94,Second Innings,1754,,,not out
+Scott McKechnie,not out,16,8,14,2,1,200.00,Second Innings,1754,,,not out
+Mohammad Rizwan,c Avesh Khan b Pandya,43,42,82,4,1,102.38,First Innings,1750,Avesh Khan,Pandya,caught
+Babar Azam,c Arshdeep Singh b Kumar,10,9,18,2,0,111.11,First Innings,1750,Arshdeep Singh,Kumar,caught
+Fakhar Zaman,c †Karthik b Avesh Khan,10,6,20,2,0,166.66,First Innings,1750,†Karthik,Avesh Khan,caught
+Iftikhar Ahmed,c †Karthik b Pandya,28,22,33,2,1,127.27,First Innings,1750,†Karthik,Pandya,caught
+Khushdil Shah,c Jadeja b Pandya,2,7,15,0,0,28.57,First Innings,1750,Jadeja,Pandya,caught
+Shadab Khan,lbw b Kumar,10,9,28,1,0,111.11,First Innings,1750,,Kumar,lbw
+Asif Ali,c Yadav b Kumar,9,7,12,0,0,128.57,First Innings,1750,Yadav,Kumar,caught
+Mohammad Nawaz,c †Karthik b Arshdeep Singh,1,3,6,0,0,33.33,First Innings,1750,†Karthik,Arshdeep Singh,caught
+Haris Rauf,not out,13,7,17,2,0,185.71,First Innings,1750,,,not out
+Naseem Shah,lbw b Kumar,0,1,3,0,0,0.00,First Innings,1750,,Kumar,lbw
+Shahnawaz Dahani,b Arshdeep Singh,16,6,8,0,2,266.66,First Innings,1750,,Singh,b
+Rohit Sharma,c Iftikhar Ahmed b Mohammad Nawaz,12,18,44,0,1,66.66,Second Innings,1750,Iftikhar Ahmed,Mohammad Nawaz,caught
+KL Rahul,b Naseem Shah,0,1,4,0,0,0.00,Second Innings,1750,,Shah,b
+Virat Kohli,c Iftikhar Ahmed b Mohammad Nawaz,35,34,47,3,1,102.94,Second Innings,1750,Iftikhar Ahmed,Mohammad Nawaz,caught
+Ravindra Jadeja,b Mohammad Nawaz,35,29,74,2,2,120.68,Second Innings,1750,,Nawaz,b
+Suryakumar Yadav,b Naseem Shah,18,18,31,1,0,100.00,Second Innings,1750,,Shah,b
+Hardik Pandya,not out,33,17,41,4,1,194.11,Second Innings,1750,,,not out
+Dinesh Karthik,not out,1,1,3,0,0,100.00,Second Innings,1750,,,not out
+Ishan Kishan,c Pooran b Drakes,11,13,23,1,0,84.61,First Innings,1726,Pooran,Drakes,caught
+Shreyas Iyer,c & b Holder,64,40,64,8,2,160.00,First Innings,1726,&,Holder,caught
+Deepak Hooda,c Brooks b Walsh,38,25,35,3,2,152.00,First Innings,1726,Brooks,Walsh,caught
+Sanju Samson,b Smith,15,11,21,2,0,136.36,First Innings,1726,,Smith,b
+Hardik Pandya,run out (Smith),28,16,40,2,2,175.00,First Innings,1726,,(Smith),run
+Dinesh Karthik,lbw b Smith,12,9,13,2,0,133.33,First Innings,1726,,Smith,lbw
+Axar Patel,c Pooran b Smith,9,7,15,0,1,128.57,First Innings,1726,Pooran,Smith,caught
+Kuldeep Yadav,not out,0,0,5,0,0,-,First Innings,1726,,,not out
+Avesh Khan,not out,1,2,2,0,0,50.00,First Innings,1726,,,not out
+Jason Holder,b Patel,0,3,2,0,0,0.00,Second Innings,1726,,Patel,b
+Shamarh Brooks,st †Karthik b Patel,13,13,19,2,0,100.00,Second Innings,1726,†Karthik,Patel,stumped
+Devon Thomas,b Patel,10,11,20,2,0,90.90,Second Innings,1726,,Patel,b
+Shimron Hetmyer,c Iyer b Ravi Bishnoi,56,35,59,5,4,160.00,Second Innings,1726,Iyer,Ravi Bishnoi,caught
+Nicholas Pooran,lbw b Kuldeep Yadav,3,6,13,0,0,50.00,Second Innings,1726,,Kuldeep Yadav,lbw
+Rovman Powell,lbw b Ravi Bishnoi,9,13,22,1,0,69.23,Second Innings,1726,,Ravi Bishnoi,lbw
+Keemo Paul,lbw b Ravi Bishnoi,0,1,4,0,0,0.00,Second Innings,1726,,Ravi Bishnoi,lbw
+Dominic Drakes,b Kuldeep Yadav,1,2,3,0,0,50.00,Second Innings,1726,,Yadav,b
+Odean Smith,c Pandya b Kuldeep Yadav,0,3,4,0,0,0.00,Second Innings,1726,Pandya,Kuldeep Yadav,caught
+Hayden Walsh,not out,0,4,14,0,0,0.00,Second Innings,1726,,,not out
+Obed McCoy,c Hooda b Ravi Bishnoi,0,3,4,0,0,0.00,Second Innings,1726,Hooda,Ravi Bishnoi,caught
+Rohit Sharma,b Hosein,33,16,24,2,3,206.25,First Innings,1725,,Hosein,b
+Suryakumar Yadav,lbw b Joseph,24,14,30,1,2,171.42,First Innings,1725,,Joseph,lbw
+Deepak Hooda,c King b Joseph,21,19,38,2,0,110.52,First Innings,1725,King,Joseph,caught
+Rishabh Pant,c Drakes b McCoy,44,31,52,6,0,141.93,First Innings,1725,Drakes,McCoy,caught
+Sanju Samson,not out,30,23,45,2,1,130.43,First Innings,1725,,,not out
+Dinesh Karthik,b McCoy,6,9,14,0,0,66.66,First Innings,1725,,McCoy,b
+Axar Patel,not out,20,8,11,1,2,250.00,First Innings,1725,,,not out
+Brandon King,c & b Avesh Khan,13,8,10,3,0,162.50,Second Innings,1725,&,Avesh Khan,caught
+Kyle Mayers,c Hooda b Patel,14,16,34,2,0,87.50,Second Innings,1725,Hooda,Patel,caught
+Devon Thomas,c Hooda b Avesh Khan,1,4,7,0,0,25.00,Second Innings,1725,Hooda,Avesh Khan,caught
+Nicholas Pooran,run out (Samson/†Pant),24,8,10,1,3,300.00,Second Innings,1725,,(Samson/†Pant),run
+Rovman Powell,c Hooda b Patel,24,16,18,1,2,150.00,Second Innings,1725,Hooda,Patel,caught
+Shimron Hetmyer,b Ravi Bishnoi,19,19,41,2,1,100.00,Second Innings,1725,,Bishnoi,b
+Jason Holder,c Samson b Arshdeep Singh,13,9,16,1,1,144.44,Second Innings,1725,Samson,Arshdeep Singh,caught
+Akeal Hosein,c Yadav b Ravi Bishnoi,3,10,14,0,0,30.00,Second Innings,1725,Yadav,Ravi Bishnoi,caught
+Dominic Drakes,b Arshdeep Singh,5,7,16,1,0,71.42,Second Innings,1725,,Singh,b
+Alzarri Joseph,not out,6,10,21,0,0,60.00,Second Innings,1725,,,not out
+Obed McCoy,b Arshdeep Singh,2,8,11,0,0,25.00,Second Innings,1725,,Singh,b
+Brandon King,b Pandya,20,20,34,3,0,100.00,First Innings,1720,,Pandya,b
+Kyle Mayers,c †Pant b Kumar,73,50,79,8,4,146.00,First Innings,1720,†Pant,Kumar,caught
+Nicholas Pooran,c †Pant b Kumar,22,23,36,2,1,95.65,First Innings,1720,†Pant,Kumar,caught
+Rovman Powell,c Hooda b Arshdeep Singh,23,14,30,2,1,164.28,First Innings,1720,Hooda,Arshdeep Singh,caught
+Shimron Hetmyer,run out (Yadav/†Pant),20,12,22,0,2,166.66,First Innings,1720,,(Yadav/†Pant),run
+Devon Thomas,not out,0,0,5,0,0,-,First Innings,1720,,,not out
+Jason Holder,not out,1,1,1,0,0,100.00,First Innings,1720,,,not out
+Rohit Sharma,retired hurt,11,5,7,1,1,220.00,Second Innings,1720,,hurt,retired
+Suryakumar Yadav,c Joseph b Drakes,76,44,77,8,4,172.72,Second Innings,1720,Joseph,Drakes,caught
+Shreyas Iyer,st †Thomas b Hosein,24,27,50,2,0,88.88,Second Innings,1720,†Thomas,Hosein,stumped
+Rishabh Pant,not out,33,26,39,3,1,126.92,Second Innings,1720,,,not out
+Hardik Pandya,c †Thomas b Holder,4,6,15,0,0,66.66,Second Innings,1720,†Thomas,Holder,caught
+Deepak Hooda,not out,10,7,9,1,0,142.85,Second Innings,1720,,,not out
+Rohit Sharma,c Hosein b McCoy,0,1,2,0,0,0.00,First Innings,1718,Hosein,McCoy,caught
+Suryakumar Yadav,c †Thomas b McCoy,11,6,11,0,1,183.33,First Innings,1718,†Thomas,McCoy,caught
+Shreyas Iyer,c †Thomas b Joseph,10,11,22,0,1,90.90,First Innings,1718,†Thomas,Joseph,caught
+Rishabh Pant,c Smith b Hosein,24,12,25,1,2,200.00,First Innings,1718,Smith,Hosein,caught
+Hardik Pandya,c Smith b Holder,31,31,44,1,2,100.00,First Innings,1718,Smith,Holder,caught
+Ravindra Jadeja,c Powell b McCoy,27,30,45,0,1,90.00,First Innings,1718,Powell,McCoy,caught
+Dinesh Karthik,c Joseph b McCoy,7,13,21,0,0,53.84,First Innings,1718,Joseph,McCoy,caught
+Ravichandran Ashwin,c Smith b McCoy,10,6,12,2,0,166.66,First Innings,1718,Smith,McCoy,caught
+Bhuvneshwar Kumar,c †Thomas b McCoy,1,3,6,0,0,33.33,First Innings,1718,†Thomas,McCoy,caught
+Avesh Khan,b Holder,8,4,8,0,1,200.00,First Innings,1718,,Holder,b
+Arshdeep Singh,not out,1,1,4,0,0,100.00,First Innings,1718,,,not out
+Brandon King,b Avesh Khan,68,52,73,8,2,130.76,Second Innings,1718,,Khan,b
+Kyle Mayers,c Ashwin b Pandya,8,14,28,1,0,57.14,Second Innings,1718,Ashwin,Pandya,caught
+Nicholas Pooran,c Yadav b Ashwin,14,11,17,1,1,127.27,Second Innings,1718,Yadav,Ashwin,caught
+Shimron Hetmyer,c & b Jadeja,6,10,18,1,0,60.00,Second Innings,1718,&,Jadeja,caught
+Devon Thomas,not out,31,19,37,1,2,163.15,Second Innings,1718,,,not out
+Rovman Powell,b Arshdeep Singh,5,8,17,0,0,62.50,Second Innings,1718,,Singh,b
+Odean Smith,not out,4,4,8,0,0,100.00,Second Innings,1718,,,not out
+Rohit Sharma,c Hetmyer b Holder,64,44,77,7,2,145.45,First Innings,1702,Hetmyer,Holder,caught
+Suryakumar Yadav,c Holder b Hosein,24,16,23,3,1,150.00,First Innings,1702,Holder,Hosein,caught
+Shreyas Iyer,c Hosein b McCoy,0,4,8,0,0,0.00,First Innings,1702,Hosein,McCoy,caught
+Rishabh Pant,c Hosein b Paul,14,12,24,2,0,116.66,First Innings,1702,Hosein,Paul,caught
+Hardik Pandya,c McCoy b Joseph,1,3,10,0,0,33.33,First Innings,1702,McCoy,Joseph,caught
+Ravindra Jadeja,c Paul b Joseph,16,13,25,2,0,123.07,First Innings,1702,Paul,Joseph,caught
+Dinesh Karthik,not out,41,19,31,4,2,215.78,First Innings,1702,,,not out
+Ravichandran Ashwin,not out,13,10,24,0,1,130.00,First Innings,1702,,,not out
+Kyle Mayers,c Kumar b Arshdeep Singh,15,6,9,2,1,250.00,Second Innings,1702,Kumar,Arshdeep Singh,caught
+Shamarh Brooks,b Kumar,20,15,30,2,1,133.33,Second Innings,1702,,Kumar,b
+Jason Holder,b Jadeja,0,4,7,0,0,0.00,Second Innings,1702,,Jadeja,b
+Nicholas Pooran,c †Pant b Ashwin,18,15,29,1,1,120.00,Second Innings,1702,†Pant,Ashwin,caught
+Rovman Powell,b Ravi Bishnoi,14,17,25,0,1,82.35,Second Innings,1702,,Bishnoi,b
+Shimron Hetmyer,c Yadav b Ashwin,14,15,19,1,1,93.33,Second Innings,1702,Yadav,Ashwin,caught
+Akeal Hosein,b Arshdeep Singh,11,15,32,0,1,73.33,Second Innings,1702,,Singh,b
+Odean Smith,st †Pant b Ravi Bishnoi,0,2,5,0,0,0.00,Second Innings,1702,†Pant,Ravi Bishnoi,stumped
+Keemo Paul,not out,19,22,34,2,0,86.36,Second Innings,1702,,,not out
+Alzarri Joseph,not out,5,11,14,0,0,45.45,Second Innings,1702,,,not out
+Jason Roy,c †Pant b Umran Malik,27,26,36,1,2,103.84,First Innings,1631,†Pant,Umran Malik,caught
+Jos Buttler,b Avesh Khan,18,9,18,2,1,200.00,First Innings,1631,,Khan,b
+Dawid Malan,c †Pant b Ravi Bishnoi,77,39,65,6,5,197.43,First Innings,1631,†Pant,Ravi Bishnoi,caught
+Phil Salt,b Patel,8,6,12,1,0,133.33,First Innings,1631,,Patel,b
+Liam Livingstone,not out,42,29,53,0,4,144.82,First Innings,1631,,,not out
+Moeen Ali,c Patel b Ravi Bishnoi,0,1,3,0,0,0.00,First Innings,1631,Patel,Ravi Bishnoi,caught
+Harry Brook,c Ravi Bishnoi b Patel,19,9,10,3,0,211.11,First Innings,1631,Ravi Bishnoi,Patel,caught
+Chris Jordan,run out (Jadeja/†Pant),11,3,9,1,1,366.66,First Innings,1631,,(Jadeja/†Pant),run
+Rohit Sharma,c Salt b Topley,11,12,26,2,0,91.66,Second Innings,1631,Salt,Topley,caught
+Rishabh Pant,c †Buttler b Topley,1,5,7,0,0,20.00,Second Innings,1631,†Buttler,Topley,caught
+Virat Kohli,c Roy b Willey,11,6,8,1,1,183.33,Second Innings,1631,Roy,Willey,caught
+Suryakumar Yadav,c Salt b Ali,117,55,88,14,6,212.72,Second Innings,1631,Salt,Ali,caught
+Shreyas Iyer,c †Buttler b Topley,28,23,54,0,2,121.73,Second Innings,1631,†Buttler,Topley,caught
+Dinesh Karthik,lbw b Willey,6,7,11,1,0,85.71,Second Innings,1631,,Willey,lbw
+Ravindra Jadeja,lbw b Gleeson,7,4,7,0,1,175.00,Second Innings,1631,,Gleeson,lbw
+Harshal Patel,c Gleeson b Jordan,5,6,13,1,0,83.33,Second Innings,1631,Gleeson,Jordan,caught
+Avesh Khan,not out,1,1,7,0,0,100.00,Second Innings,1631,,,not out
+Ravi Bishnoi,b Jordan,2,2,2,0,0,100.00,Second Innings,1631,,Jordan,b
+Rohit Sharma,c †Buttler b Gleeson,31,20,26,3,2,155.00,First Innings,1628,†Buttler,Gleeson,caught
+Rishabh Pant,c †Buttler b Gleeson,26,15,35,4,1,173.33,First Innings,1628,†Buttler,Gleeson,caught
+Virat Kohli,c Malan b Gleeson,1,3,8,0,0,33.33,First Innings,1628,Malan,Gleeson,caught
+Suryakumar Yadav,c Curran b Jordan,15,11,24,2,0,136.36,First Innings,1628,Curran,Jordan,caught
+Hardik Pandya,c Malan b Jordan,12,15,23,1,0,80.00,First Innings,1628,Malan,Jordan,caught
+Ravindra Jadeja,not out,46,29,47,5,0,158.62,First Innings,1628,,,not out
+Dinesh Karthik,run out (Brook/†Buttler),12,17,22,1,0,70.58,First Innings,1628,,(Brook/†Buttler),run
+Harshal Patel,c Gleeson b Jordan,13,6,9,1,1,216.66,First Innings,1628,Gleeson,Jordan,caught
+Bhuvneshwar Kumar,c Willey b Jordan,2,4,10,0,0,50.00,First Innings,1628,Willey,Jordan,caught
+Jasprit Bumrah,not out,0,0,5,0,0,-,First Innings,1628,,,not out
+Jason Roy,c Sharma b Kumar,0,1,2,0,0,0.00,Second Innings,1628,Sharma,Kumar,caught
+Jos Buttler,c †Pant b Kumar,4,5,15,0,0,80.00,Second Innings,1628,†Pant,Kumar,caught
+Dawid Malan,c Patel b Chahal,19,25,47,2,0,76.00,Second Innings,1628,Patel,Chahal,caught
+Liam Livingstone,b Bumrah,15,9,10,3,0,166.66,Second Innings,1628,,Bumrah,b
+Harry Brook,c Yadav b Chahal,8,9,13,2,0,88.88,Second Innings,1628,Yadav,Chahal,caught
+Moeen Ali,c Sharma b Pandya,35,21,35,3,2,166.66,Second Innings,1628,Sharma,Pandya,caught
+Sam Curran,c Pandya b Bumrah,2,4,5,0,0,50.00,Second Innings,1628,Pandya,Bumrah,caught
+David Willey,not out,33,22,31,3,2,150.00,Second Innings,1628,,,not out
+Chris Jordan,run out (Chahal/Sharma),1,1,2,0,0,100.00,Second Innings,1628,,(Chahal/Sharma),run
+Richard Gleeson,c Kohli b Kumar,2,3,6,0,0,66.66,Second Innings,1628,Kohli,Kumar,caught
+Matt Parkinson,b Patel,0,2,8,0,0,0.00,Second Innings,1628,,Patel,b
+Rohit Sharma,c †Buttler b Ali,24,14,14,5,0,171.42,First Innings,1616,†Buttler,Ali,caught
+Ishan Kishan,c Parkinson b Ali,8,10,25,0,0,80.00,First Innings,1616,Parkinson,Ali,caught
+Deepak Hooda,c Mills b Jordan,33,17,28,3,2,194.11,First Innings,1616,Mills,Jordan,caught
+Suryakumar Yadav,c †Buttler b Jordan,39,19,37,4,2,205.26,First Innings,1616,†Buttler,Jordan,caught
+Hardik Pandya,c Brook b Topley,51,33,49,6,1,154.54,First Innings,1616,Brook,Topley,caught
+Axar Patel,c Roy b Parkinson,17,12,24,3,0,141.66,First Innings,1616,Roy,Parkinson,caught
+Dinesh Karthik,c Curran b Mills,11,7,17,2,0,157.14,First Innings,1616,Curran,Mills,caught
+Harshal Patel,run out (†Buttler),3,6,13,0,0,50.00,First Innings,1616,,(†Buttler),run
+Bhuvneshwar Kumar,not out,1,1,4,0,0,100.00,First Innings,1616,,,not out
+Arshdeep Singh,not out,2,1,2,0,0,200.00,First Innings,1616,,,not out
+Jason Roy,c HV Patel b Pandya,4,16,38,0,0,25.00,Second Innings,1616,HV Patel,Pandya,caught
+Jos Buttler,b Kumar,0,1,6,0,0,0.00,Second Innings,1616,,Kumar,b
+Dawid Malan,b Pandya,21,14,21,4,0,150.00,Second Innings,1616,,Pandya,b
+Liam Livingstone,c †Karthik b Pandya,0,3,6,0,0,0.00,Second Innings,1616,†Karthik,Pandya,caught
+Harry Brook,c Yadav b Chahal,28,23,34,2,1,121.73,Second Innings,1616,Yadav,Chahal,caught
+Moeen Ali,st †Karthik b Chahal,36,20,31,4,2,180.00,Second Innings,1616,†Karthik,Chahal,stumped
+Sam Curran,c †Karthik b Pandya,4,4,9,0,0,100.00,Second Innings,1616,†Karthik,Pandya,caught
+Chris Jordan,not out,26,17,32,2,1,152.94,Second Innings,1616,,,not out
+Tymal Mills,c & b HV Patel,7,8,9,0,1,87.50,Second Innings,1616,&,HV Patel,caught
+Reece Topley,c †Karthik b Arshdeep Singh,9,8,11,1,0,112.50,Second Innings,1616,†Karthik,Arshdeep Singh,caught
+Matt Parkinson,c Hooda b Arshdeep Singh,0,3,9,0,0,0.00,Second Innings,1616,Hooda,Arshdeep Singh,caught
+Sanju Samson,b Adair,77,42,76,9,4,183.33,First Innings,1586,,Adair,b
+Ishan Kishan,c †Tucker b Adair,3,5,9,0,0,60.00,First Innings,1586,†Tucker,Adair,caught
+Deepak Hooda,c McBrine b Little,104,57,78,9,6,182.45,First Innings,1586,McBrine,Little,caught
+Suryakumar Yadav,c †Tucker b Little,15,5,6,2,1,300.00,First Innings,1586,†Tucker,Little,caught
+Hardik Pandya,not out,13,9,17,2,0,144.44,First Innings,1586,,,not out
+Dinesh Karthik,c †Tucker b Young,0,1,4,0,0,0.00,First Innings,1586,†Tucker,Young,caught
+Axar Patel,c Dockrell b Young,0,1,1,0,0,0.00,First Innings,1586,Dockrell,Young,caught
+Harshal Patel,b Adair,0,1,4,0,0,0.00,First Innings,1586,,Adair,b
+Bhuvneshwar Kumar,not out,1,1,3,0,0,100.00,First Innings,1586,,,not out
+Paul Stirling,b Ravi Bishnoi,40,18,31,5,3,222.22,Second Innings,1586,,Bishnoi,b
+Andy Balbirnie,c Ravi Bishnoi b HV Patel,60,37,56,3,7,162.16,Second Innings,1586,Ravi Bishnoi,HV Patel,caught
+Gareth Delany,run out (Pandya),0,4,5,0,0,0.00,Second Innings,1586,,(Pandya),run
+Harry Tector,c Hooda b Kumar,39,28,57,5,0,139.28,Second Innings,1586,Hooda,Kumar,caught
+Lorcan Tucker,c sub (YS Chahal) b Umran Malik,5,9,16,0,0,55.55,Second Innings,1586,sub (YS Chahal),Umran Malik,caught
+George Dockrell,not out,34,16,36,3,3,212.50,Second Innings,1586,,,not out
+Mark Adair,not out,23,12,15,3,1,191.66,Second Innings,1586,,,not out
+Paul Stirling,c Hooda b Pandya,4,5,8,1,0,80.00,First Innings,1580,Hooda,Pandya,caught
+Andy Balbirnie,b Kumar,0,2,3,0,0,0.00,First Innings,1580,,Kumar,b
+Gareth Delany,c †Karthik b Avesh Khan,8,9,16,1,0,88.88,First Innings,1580,†Karthik,Avesh Khan,caught
+Harry Tector,not out,64,33,50,6,3,193.93,First Innings,1580,,,not out
+Lorcan Tucker,c Patel b Chahal,18,16,22,0,2,112.50,First Innings,1580,Patel,Chahal,caught
+George Dockrell,not out,4,7,16,0,0,57.14,First Innings,1580,,,not out
+Deepak Hooda,not out,47,29,49,6,2,162.06,Second Innings,1580,,,not out
+Ishan Kishan,b Young,26,11,11,3,2,236.36,Second Innings,1580,,Young,b
+Suryakumar Yadav,lbw b Young,0,1,2,0,0,0.00,Second Innings,1580,,Young,lbw
+Hardik Pandya,lbw b Little,24,12,26,1,3,200.00,Second Innings,1580,,Little,lbw
+Dinesh Karthik,not out,5,4,7,1,0,125.00,Second Innings,1580,,,not out
+Ishan Kishan,b Ngidi,15,7,8,0,2,214.28,First Innings,1575,,Ngidi,b
+Ruturaj Gaikwad,c Pretorius b Ngidi,10,12,14,1,0,83.33,First Innings,1575,Pretorius,Ngidi,caught
+Shreyas Iyer,not out,0,1,8,0,0,0.00,First Innings,1575,,,not out
+Rishabh Pant,not out,1,1,2,0,0,100.00,First Innings,1575,,,not out
+Ruturaj Gaikwad,c †de Kock b Ngidi,5,7,11,1,0,71.42,First Innings,1572,†de Kock,Ngidi,caught
+Ishan Kishan,c †de Kock b Nortje,27,26,34,3,1,103.84,First Innings,1572,†de Kock,Nortje,caught
+Shreyas Iyer,lbw b Jansen,4,2,8,1,0,200.00,First Innings,1572,,Jansen,lbw
+Rishabh Pant,c Pretorius b Maharaj,17,23,48,2,0,73.91,First Innings,1572,Pretorius,Maharaj,caught
+Hardik Pandya,c Shamsi b Ngidi,46,31,58,3,3,148.38,First Innings,1572,Shamsi,Ngidi,caught
+Dinesh Karthik,c van der Dussen b Pretorius,55,27,34,9,2,203.70,First Innings,1572,van der Dussen,Pretorius,caught
+Axar Patel,not out,8,4,10,1,0,200.00,First Innings,1572,,,not out
+Harshal Patel,not out,1,1,4,0,0,100.00,First Innings,1572,,,not out
+Quinton de Kock,run out (HV Patel),14,13,30,2,0,107.69,Second Innings,1572,,Patel),run
+Temba Bavuma,retired hurt,8,11,15,1,0,72.72,Second Innings,1572,,hurt,retired
+Dwaine Pretorius,c †Pant b Avesh Khan,0,6,14,0,0,0.00,Second Innings,1572,†Pant,Avesh Khan,caught
+Rassie van der Dussen,c Gaikwad b Avesh Khan,20,20,40,2,0,100.00,Second Innings,1572,Gaikwad,Avesh Khan,caught
+Heinrich Klaasen,lbw b Chahal,8,8,14,1,0,100.00,Second Innings,1572,,Chahal,lbw
+David Miller,b HV Patel,9,7,8,0,1,128.57,Second Innings,1572,,Patel,b
+Marco Jansen,c Gaikwad b Avesh Khan,12,17,19,1,1,70.58,Second Innings,1572,Gaikwad,Avesh Khan,caught
+Keshav Maharaj,c Iyer b Avesh Khan,0,2,8,0,0,0.00,Second Innings,1572,Iyer,Avesh Khan,caught
+Anrich Nortje,c Ishan Kishan b Chahal,1,4,8,0,0,25.00,Second Innings,1572,Ishan Kishan,Chahal,caught
+Lungi Ngidi,c Gaikwad b AR Patel,4,10,10,0,0,40.00,Second Innings,1572,Gaikwad,AR Patel,caught
+Tabraiz Shamsi,not out,4,3,5,0,0,133.33,Second Innings,1572,,,not out
+Ruturaj Gaikwad,c & b Maharaj,57,35,44,7,2,162.85,First Innings,1571,&,Maharaj,caught
+Ishan Kishan,c Hendricks b Pretorius,54,35,64,5,2,154.28,First Innings,1571,Hendricks,Pretorius,caught
+Shreyas Iyer,c Nortje b Shamsi,14,11,14,0,2,127.27,First Innings,1571,Nortje,Shamsi,caught
+Rishabh Pant,c Bavuma b Pretorius,6,8,17,0,0,75.00,First Innings,1571,Bavuma,Pretorius,caught
+Hardik Pandya,not out,31,21,34,4,0,147.61,First Innings,1571,,,not out
+Dinesh Karthik,c Parnell b Rabada,6,8,14,0,0,75.00,First Innings,1571,Parnell,Rabada,caught
+Axar Patel,not out,5,2,8,1,0,250.00,First Innings,1571,,,not out
+Temba Bavuma,c Avesh Khan b AR Patel,8,10,18,0,0,80.00,Second Innings,1571,Avesh Khan,AR Patel,caught
+Reeza Hendricks,c Chahal b HV Patel,23,20,29,2,1,115.00,Second Innings,1571,Chahal,HV Patel,caught
+Dwaine Pretorius,c †Pant b Chahal,20,16,25,2,1,125.00,Second Innings,1571,†Pant,Chahal,caught
+Rassie van der Dussen,c †Pant b Chahal,1,4,5,0,0,25.00,Second Innings,1571,†Pant,Chahal,caught
+Heinrich Klaasen,c AR Patel b Chahal,29,24,38,3,1,120.83,Second Innings,1571,AR Patel,Chahal,caught
+David Miller,c Gaikwad b HV Patel,3,5,12,0,0,60.00,Second Innings,1571,Gaikwad,HV Patel,caught
+Wayne Parnell,not out,22,18,42,2,0,122.22,Second Innings,1571,,,not out
+Kagiso Rabada,c Chahal b HV Patel,9,8,11,1,0,112.50,Second Innings,1571,Chahal,HV Patel,caught
+Keshav Maharaj,c Karthik b Kumar,11,8,10,0,1,137.50,Second Innings,1571,Karthik,Kumar,caught
+Anrich Nortje,run out (†Pant/Kumar),0,1,4,0,0,0.00,Second Innings,1571,,(†Pant/Kumar),run
+Tabraiz Shamsi,c Avesh Khan b HV Patel,0,1,2,0,0,0.00,Second Innings,1571,Avesh Khan,HV Patel,caught
+Ruturaj Gaikwad,c Maharaj b Rabada,1,4,5,0,0,25.00,First Innings,1569,Maharaj,Rabada,caught
+Ishan Kishan,c van der Dussen b Nortje,34,21,31,2,3,161.90,First Innings,1569,van der Dussen,Nortje,caught
+Shreyas Iyer,c †Klaasen b Pretorius,40,35,64,2,2,114.28,First Innings,1569,†Klaasen,Pretorius,caught
+Rishabh Pant,c van der Dussen b Maharaj,5,7,15,0,0,71.42,First Innings,1569,van der Dussen,Maharaj,caught
+Hardik Pandya,b Parnell,9,12,15,1,0,75.00,First Innings,1569,,Parnell,b
+Axar Patel,b Nortje,10,11,22,1,0,90.90,First Innings,1569,,Nortje,b
+Dinesh Karthik,not out,30,21,30,2,2,142.85,First Innings,1569,,,not out
+Harshal Patel,not out,12,9,14,2,0,133.33,First Innings,1569,,,not out
+Temba Bavuma,b Chahal,35,30,58,4,1,116.66,Second Innings,1569,,Chahal,b
+Reeza Hendricks,b Kumar,4,3,3,1,0,133.33,Second Innings,1569,,Kumar,b
+Dwaine Pretorius,c Avesh Khan b Kumar,4,5,9,1,0,80.00,Second Innings,1569,Avesh Khan,Kumar,caught
+Rassie van der Dussen,b Kumar,1,7,15,0,0,14.28,Second Innings,1569,,Kumar,b
+Heinrich Klaasen,c sub (Ravi Bishnoi) b HV Patel,81,46,59,7,5,176.08,Second Innings,1569,sub (Ravi Bishnoi),HV Patel,caught
+David Miller,not out,20,15,31,1,1,133.33,Second Innings,1569,,,not out
+Wayne Parnell,b Kumar,1,4,5,0,0,25.00,Second Innings,1569,,Kumar,b
+Kagiso Rabada,not out,0,0,2,0,0,-,Second Innings,1569,,,not out
+Ishan Kishan,c Stubbs b Maharaj,76,48,59,11,3,158.33,First Innings,1554,Stubbs,Maharaj,caught
+Ruturaj Gaikwad,c Bavuma b Parnell,23,15,28,0,3,153.33,First Innings,1554,Bavuma,Parnell,caught
+Shreyas Iyer,b Pretorius,36,27,48,1,3,133.33,First Innings,1554,,Pretorius,b
+Rishabh Pant,c van der Dussen b Nortje,29,16,31,2,2,181.25,First Innings,1554,van der Dussen,Nortje,caught
+Hardik Pandya,not out,31,12,20,2,3,258.33,First Innings,1554,,,not out
+Dinesh Karthik,not out,1,2,5,0,0,50.00,First Innings,1554,,,not out
+Quinton de Kock,c Ishan Kishan b AR Patel,22,18,43,3,0,122.22,Second Innings,1554,Ishan Kishan,AR Patel,caught
+Temba Bavuma,c †Pant b Kumar,10,8,13,2,0,125.00,Second Innings,1554,†Pant,Kumar,caught
+Dwaine Pretorius,b HV Patel,29,13,16,1,4,223.07,Second Innings,1554,,Patel,b
+Rassie van der Dussen,not out,75,46,72,7,5,163.04,Second Innings,1554,,,not out
+David Miller,not out,64,31,58,4,5,206.45,Second Innings,1554,,,not out
+Pathum Nissanka,c VR Iyer b Avesh Khan,1,10,11,0,0,10.00,First Innings,1494,VR Iyer,Avesh Khan,caught
+Danushka Gunathilaka,b Mohammed Siraj,0,1,6,0,0,0.00,First Innings,1494,,Siraj,b
+Charith Asalanka,c †Samson b Avesh Khan,4,6,18,1,0,66.66,First Innings,1494,†Samson,Avesh Khan,caught
+Janith Liyanage,b Ravi Bishnoi,9,19,32,0,0,47.36,First Innings,1494,,Bishnoi,b
+Dinesh Chandimal,c VR Iyer b Patel,22,27,42,2,0,81.48,First Innings,1494,VR Iyer,Patel,caught
+Dasun Shanaka,not out,74,38,60,9,2,194.73,First Innings,1494,,,not out
+Chamika Karunaratne,not out,12,19,39,0,0,63.15,First Innings,1494,,,not out
+Sanju Samson,c †Chandimal b Karunaratne,18,12,32,3,0,150.00,Second Innings,1494,†Chandimal,Karunaratne,caught
+Rohit Sharma,c Karunaratne b Chameera,5,9,8,1,0,55.55,Second Innings,1494,Karunaratne,Chameera,caught
+Shreyas Iyer,not out,73,45,78,9,1,162.22,Second Innings,1494,,,not out
+Deepak Hooda,b Kumara,21,16,20,1,1,131.25,Second Innings,1494,,Kumara,b
+Venkatesh Iyer,c sub (P Jayawickrama) b Kumara,5,4,11,1,0,125.00,Second Innings,1494,sub (P Jayawickrama),Kumara,caught
+Ravindra Jadeja,not out,22,15,24,3,0,146.66,Second Innings,1494,,,not out
+Pathum Nissanka,lbw b Kumar,75,53,90,11,0,141.50,First Innings,1493,,Kumar,lbw
+Danushka Gunathilaka,c VR Iyer b Jadeja,38,29,39,4,2,131.03,First Innings,1493,VR Iyer,Jadeja,caught
+Charith Asalanka,lbw b Chahal,2,5,7,0,0,40.00,First Innings,1493,,Chahal,lbw
+Kamil Mishara,c SS Iyer b Patel,1,4,9,0,0,25.00,First Innings,1493,SS Iyer,Patel,caught
+Dinesh Chandimal,c Sharma b Bumrah,9,10,15,1,0,90.00,First Innings,1493,Sharma,Bumrah,caught
+Dasun Shanaka,not out,47,19,30,2,5,247.36,First Innings,1493,,,not out
+Chamika Karunaratne,not out,0,0,9,0,0,-,First Innings,1493,,,not out
+Rohit Sharma,b Chameera,1,2,5,0,0,50.00,Second Innings,1493,,Chameera,b
+Ishan Kishan,c Shanaka b Kumara,16,15,28,2,0,106.66,Second Innings,1493,Shanaka,Kumara,caught
+Shreyas Iyer,not out,74,44,88,6,4,168.18,Second Innings,1493,,,not out
+Sanju Samson,c Fernando b Kumara,39,25,42,2,3,156.00,Second Innings,1493,Fernando,Kumara,caught
+Ravindra Jadeja,not out,45,18,25,7,1,250.00,Second Innings,1493,,,not out
+Rohit Sharma,b Kumara,44,32,58,2,1,137.50,First Innings,1492,,Kumara,b
+Ishan Kishan,c Liyanage b Shanaka,89,56,82,10,3,158.92,First Innings,1492,Liyanage,Shanaka,caught
+Shreyas Iyer,not out,57,28,38,5,2,203.57,First Innings,1492,,,not out
+Ravindra Jadeja,not out,3,4,14,0,0,75.00,First Innings,1492,,,not out
+Pathum Nissanka,b Kumar,0,1,1,0,0,0.00,Second Innings,1492,,Kumar,b
+Kamil Mishara,c Sharma b Kumar,13,12,13,2,0,108.33,Second Innings,1492,Sharma,Kumar,caught
+Janith Liyanage,c Samson b VR Iyer,11,17,32,0,0,64.70,Second Innings,1492,Samson,VR Iyer,caught
+Charith Asalanka,not out,53,47,76,5,0,112.76,Second Innings,1492,,,not out
+Dinesh Chandimal,st †Ishan Kishan b Jadeja,10,9,9,0,1,111.11,Second Innings,1492,†Ishan Kishan,Jadeja,stumped
+Dasun Shanaka,c Kumar b Chahal,3,6,7,0,0,50.00,Second Innings,1492,Kumar,Chahal,caught
+Chamika Karunaratne,c †Ishan Kishan b VR Iyer,21,14,22,0,2,150.00,Second Innings,1492,†Ishan Kishan,VR Iyer,caught
+Dushmantha Chameera,not out,24,14,20,2,1,171.42,Second Innings,1492,,,not out
+Ruturaj Gaikwad,c Mayers b Holder,4,8,13,1,0,50.00,First Innings,1479,Mayers,Holder,caught
+Ishan Kishan,b Chase,34,31,44,5,0,109.67,First Innings,1479,,Chase,b
+Shreyas Iyer,c Holder b Walsh,25,16,26,4,0,156.25,First Innings,1479,Holder,Walsh,caught
+Rohit Sharma,b Drakes,7,15,25,0,0,46.66,First Innings,1479,,Drakes,b
+Suryakumar Yadav,c Powell b Shepherd,65,31,57,1,7,209.67,First Innings,1479,Powell,Shepherd,caught
+Venkatesh Iyer,not out,35,19,40,4,2,184.21,First Innings,1479,,,not out
+Kyle Mayers,c †Ishan Kishan b Chahar,6,5,7,1,0,120.00,Second Innings,1479,†Ishan Kishan,Chahar,caught
+Shai Hope,c †Ishan Kishan b Chahar,8,4,18,2,0,200.00,Second Innings,1479,†Ishan Kishan,Chahar,caught
+Nicholas Pooran,c †Ishan Kishan b Thakur,61,47,95,8,1,129.78,Second Innings,1479,†Ishan Kishan,Thakur,caught
+Rovman Powell,c Thakur b Patel,25,14,26,2,2,178.57,Second Innings,1479,Thakur,Patel,caught
+Kieron Pollard,c Ravi Bishnoi b VR Iyer,5,7,12,1,0,71.42,Second Innings,1479,Ravi Bishnoi,VR Iyer,caught
+Jason Holder,c SS Iyer b VR Iyer,2,6,13,0,0,33.33,Second Innings,1479,SS Iyer,VR Iyer,caught
+Roston Chase,b Patel,12,7,9,2,0,171.42,Second Innings,1479,,Patel,b
+Romario Shepherd,c Sharma b Patel,29,21,38,1,3,138.09,Second Innings,1479,Sharma,Patel,caught
+Fabian Allen,not out,5,3,17,1,0,166.66,Second Innings,1479,,,not out
+Dominic Drakes,c Sharma b Thakur,4,3,5,1,0,133.33,Second Innings,1479,Sharma,Thakur,caught
+Hayden Walsh,not out,0,3,3,0,0,0.00,Second Innings,1479,,,not out
+Rohit Sharma,c King b Chase,19,18,39,2,1,105.55,First Innings,1473,King,Chase,caught
+Ishan Kishan,c Mayers b Cottrell,2,10,12,0,0,20.00,First Innings,1473,Mayers,Cottrell,caught
+Virat Kohli,b Chase,52,41,57,7,1,126.82,First Innings,1473,,Chase,b
+Suryakumar Yadav,c & b Chase,8,6,9,1,0,133.33,First Innings,1473,&,Chase,caught
+Rishabh Pant,not out,52,28,48,7,1,185.71,First Innings,1473,,,not out
+Venkatesh Iyer,b Shepherd,33,18,28,4,1,183.33,First Innings,1473,,Shepherd,b
+Harshal Patel,not out,1,1,3,0,0,100.00,First Innings,1473,,,not out
+Brandon King,c Yadav b Ravi Bishnoi,22,30,46,2,0,73.33,Second Innings,1473,Yadav,Ravi Bishnoi,caught
+Kyle Mayers,c & b Chahal,9,10,28,1,0,90.00,Second Innings,1473,&,Chahal,caught
+Nicholas Pooran,c Ravi Bishnoi b Kumar,62,41,75,5,3,151.21,Second Innings,1473,Ravi Bishnoi,Kumar,caught
+Rovman Powell,not out,68,36,67,4,5,188.88,Second Innings,1473,,,not out
+Kieron Pollard,not out,3,3,10,0,0,100.00,Second Innings,1473,,,not out
+Brandon King,c Yadav b Kumar,4,5,5,1,0,80.00,First Innings,1467,Yadav,Kumar,caught
+Kyle Mayers,lbw b Chahal,31,24,36,7,0,129.16,First Innings,1467,,Chahal,lbw
+Nicholas Pooran,c Kohli b Patel,61,43,102,4,5,141.86,First Innings,1467,Kohli,Patel,caught
+Roston Chase,lbw b Ravi Bishnoi,4,10,27,0,0,40.00,First Innings,1467,,Ravi Bishnoi,lbw
+Rovman Powell,c Iyer b Ravi Bishnoi,2,3,4,0,0,66.66,First Innings,1467,Iyer,Ravi Bishnoi,caught
+Akeal Hosein,c & b Chahar,10,12,15,0,1,83.33,First Innings,1467,&,Chahar,caught
+Kieron Pollard,not out,24,19,39,2,1,126.31,First Innings,1467,,,not out
+Odean Smith,c Sharma b Patel,4,4,14,0,0,100.00,First Innings,1467,Sharma,Patel,caught
+Rohit Sharma,c Smith b Chase,40,19,37,4,3,210.52,Second Innings,1467,Smith,Chase,caught
+Ishan Kishan,c Allen b Chase,35,42,57,4,0,83.33,Second Innings,1467,Allen,Chase,caught
+Virat Kohli,c Pollard b Allen,17,13,25,1,0,130.76,Second Innings,1467,Pollard,Allen,caught
+Rishabh Pant,c Smith b Cottrell,8,8,17,0,0,100.00,Second Innings,1467,Smith,Cottrell,caught
+Suryakumar Yadav,not out,34,18,35,5,1,188.88,Second Innings,1467,,,not out
+Venkatesh Iyer,not out,24,13,22,2,1,184.61,Second Innings,1467,,,not out
+Yashasvi Jaiswal,c Bennett b Sikandar Raza,36,27,37,4,2,133.33,First Innings,2749,Bennett,Sikandar Raza,caught
+Shubman Gill,c Sikandar Raza b Muzarabani,66,49,74,7,3,134.69,First Innings,2749,Sikandar Raza,Muzarabani,caught
+Abhishek Sharma,c Marumani b Sikandar Raza,10,9,8,1,0,111.11,First Innings,2749,Marumani,Sikandar Raza,caught
+Ruturaj Gaikwad,c Madhevere b Muzarabani,49,28,39,4,3,175.00,First Innings,2749,Madhevere,Muzarabani,caught
+Sanju Samson,not out,12,7,12,2,0,171.42,First Innings,2749,,,not out
+Rinku Singh,not out,1,1,1,0,0,100.00,First Innings,2749,,,not out
+Wessly Madhevere,c Abhishek Sharma b Avesh Khan,1,2,6,0,0,50.00,Second Innings,2749,Abhishek Sharma,Avesh Khan,caught
+Tadiwanashe Marumani,c Dube b Ahmed,13,10,13,3,0,130.00,Second Innings,2749,Dube,Ahmed,caught
+Brian Bennett,c Ravi Bishnoi b Avesh Khan,4,5,10,1,0,80.00,Second Innings,2749,Ravi Bishnoi,Avesh Khan,caught
+Dion Myers,not out,65,49,73,7,1,132.65,Second Innings,2749,,,not out
+Sikandar Raza,c Singh b Washington Sundar,15,16,15,3,0,93.75,Second Innings,2749,Singh,Washington Sundar,caught
+Johnathan Campbell,c sub (R Parag) b Washington Sundar,1,2,3,0,0,50.00,Second Innings,2749,sub (R Parag),Washington Sundar,caught
+Clive Madande,c Singh b Washington Sundar,37,26,33,2,2,142.30,Second Innings,2749,Singh,Washington Sundar,caught
+Wellington Masakadza,not out,18,10,16,1,1,180.00,Second Innings,2749,,,not out
+Shubman Gill,c Bennett b Muzarabani,2,4,5,0,0,50.00,First Innings,2739,Bennett,Muzarabani,caught
+Abhishek Sharma,c Myers b Masakadza,100,47,61,7,8,212.76,First Innings,2739,Myers,Masakadza,caught
+Ruturaj Gaikwad,not out,77,47,88,11,1,163.82,First Innings,2739,,,not out
+Rinku Singh,not out,48,22,32,2,5,218.18,First Innings,2739,,,not out
+Innocent Kaia,b Mukesh Kumar,4,3,2,1,0,133.33,Second Innings,2739,,Kumar,b
+Wessly Madhevere,b Ravi Bishnoi,43,39,76,3,1,110.25,Second Innings,2739,,Bishnoi,b
+Brian Bennett,b Mukesh Kumar,26,9,13,1,3,288.88,Second Innings,2739,,Kumar,b
+Dion Myers,c Singh b Avesh Khan,0,1,3,0,0,0.00,Second Innings,2739,Singh,Avesh Khan,caught
+Sikandar Raza,c †Jurel b Avesh Khan,4,4,4,1,0,100.00,Second Innings,2739,†Jurel,Avesh Khan,caught
+Johnathan Campbell,c Ravi Bishnoi b Washington Sundar,10,18,22,0,0,55.55,Second Innings,2739,Ravi Bishnoi,Washington Sundar,caught
+Clive Madande,lbw b Ravi Bishnoi,0,4,3,0,0,0.00,Second Innings,2739,,Ravi Bishnoi,lbw
+Wellington Masakadza,run out (†Jurel),1,3,4,0,0,33.33,Second Innings,2739,,(†Jurel),run
+Luke Jongwe,c Gaikwad b Mukesh Kumar,33,26,32,4,0,126.92,Second Innings,2739,Gaikwad,Mukesh Kumar,caught
+Blessing Muzarabani,c Washington Sundar b Avesh Khan,2,4,5,0,0,50.00,Second Innings,2739,Washington Sundar,Avesh Khan,caught
+Tendai Chatara,not out,0,2,6,0,0,0.00,Second Innings,2739,,,not out
+Wessly Madhevere,b Ravi Bishnoi,21,22,43,3,0,95.45,First Innings,2737,,Bishnoi,b
+Innocent Kaia,b Mukesh Kumar,0,1,6,0,0,0.00,First Innings,2737,,Kumar,b
+Brian Bennett,b Ravi Bishnoi,22,15,24,5,0,146.66,First Innings,2737,,Bishnoi,b
+Sikandar Raza,c Ravi Bishnoi b Avesh Khan,17,19,27,1,1,89.47,First Innings,2737,Ravi Bishnoi,Avesh Khan,caught
+Dion Myers,c & b Washington Sundar,23,22,27,2,0,104.54,First Innings,2737,&,Washington Sundar,caught
+Johnathan Campbell,run out (Washington Sundar/Avesh Khan),0,1,4,0,0,0.00,First Innings,2737,,Khan),run
+Clive Madande,not out,29,25,39,4,0,116.00,First Innings,2737,,,not out
+Wellington Masakadza,st †Jurel b Washington Sundar,0,1,2,0,0,0.00,First Innings,2737,†Jurel,Washington Sundar,stumped
+Luke Jongwe,lbw b Ravi Bishnoi,1,3,5,0,0,33.33,First Innings,2737,,Ravi Bishnoi,lbw
+Blessing Muzarabani,b Ravi Bishnoi,0,2,4,0,0,0.00,First Innings,2737,,Bishnoi,b
+Tendai Chatara,not out,0,9,19,0,0,0.00,First Innings,2737,,,not out
+Abhishek Sharma,c Masakadza b Bennett,0,4,2,0,0,0.00,Second Innings,2737,Masakadza,Bennett,caught
+Shubman Gill,b Sikandar Raza,31,29,53,5,0,106.89,Second Innings,2737,,Raza,b
+Ruturaj Gaikwad,c Kaia b Muzarabani,7,9,13,1,0,77.77,Second Innings,2737,Kaia,Muzarabani,caught
+Riyan Parag,c sub (B Mavuta) b Chatara,2,3,6,0,0,66.66,Second Innings,2737,sub (B Mavuta),Chatara,caught
+Rinku Singh,c Bennett b Chatara,0,2,3,0,0,0.00,Second Innings,2737,Bennett,Chatara,caught
+Dhruv Jurel,c Madhevere b Jongwe,6,14,24,1,0,42.85,Second Innings,2737,Madhevere,Jongwe,caught
+Washington Sundar,c Muzarabani b Chatara,27,34,49,1,1,79.41,Second Innings,2737,Muzarabani,Chatara,caught
+Ravi Bishnoi,lbw b Sikandar Raza,9,8,11,2,0,112.50,Second Innings,2737,,Sikandar Raza,lbw
+Avesh Khan,c Sikandar Raza b Masakadza,16,12,12,3,0,133.33,Second Innings,2737,Sikandar Raza,Masakadza,caught
+Mukesh Kumar,b Sikandar Raza,0,3,6,0,0,0.00,Second Innings,2737,,Raza,b
+Khaleel Ahmed,not out,0,1,14,0,0,0.00,Second Innings,2737,,,not out
+Rohit Sharma,c Klaasen b Maharaj,9,5,7,2,0,180.00,First Innings,2729,Klaasen,Maharaj,caught
+Virat Kohli,c Rabada b Jansen,76,59,87,6,2,128.81,First Innings,2729,Rabada,Jansen,caught
+Rishabh Pant,c †de Kock b Maharaj,0,2,2,0,0,0.00,First Innings,2729,†de Kock,Maharaj,caught
+Suryakumar Yadav,c Klaasen b Rabada,3,4,9,0,0,75.00,First Innings,2729,Klaasen,Rabada,caught
+Axar Patel,run out (†de Kock),47,31,38,1,4,151.61,First Innings,2729,,Kock),run
+Shivam Dube,c Miller b Nortje,27,16,32,3,1,168.75,First Innings,2729,Miller,Nortje,caught
+Hardik Pandya,not out,5,2,7,1,0,250.00,First Innings,2729,,,not out
+Ravindra Jadeja,c Maharaj b Nortje,2,2,1,0,0,100.00,First Innings,2729,Maharaj,Nortje,caught
+Reeza Hendricks,b Bumrah,4,5,6,1,0,80.00,Second Innings,2729,,Bumrah,b
+Quinton de Kock,c Kuldeep Yadav b Arshdeep Singh,39,31,54,4,1,125.80,Second Innings,2729,Kuldeep Yadav,Arshdeep Singh,caught
+Aiden Markram,c †Pant b Arshdeep Singh,4,5,4,1,0,80.00,Second Innings,2729,†Pant,Arshdeep Singh,caught
+Tristan Stubbs,b Patel,31,21,24,3,1,147.61,Second Innings,2729,,Patel,b
+Heinrich Klaasen,c †Pant b Pandya,52,27,33,2,5,192.59,Second Innings,2729,†Pant,Pandya,caught
+David Miller,c Yadav b Pandya,21,17,37,1,1,123.52,Second Innings,2729,Yadav,Pandya,caught
+Marco Jansen,b Bumrah,2,4,7,0,0,50.00,Second Innings,2729,,Bumrah,b
+Keshav Maharaj,not out,2,7,18,0,0,28.57,Second Innings,2729,,,not out
+Kagiso Rabada,c Yadav b Pandya,4,3,5,1,0,133.33,Second Innings,2729,Yadav,Pandya,caught
+Anrich Nortje,not out,1,1,1,0,0,100.00,Second Innings,2729,,,not out
+Rohit Sharma,b Rashid,57,39,57,6,2,146.15,First Innings,2724,,Rashid,b
+Virat Kohli,b Topley,9,9,10,0,1,100.00,First Innings,2724,,Topley,b
+Rishabh Pant,c Bairstow b Curran,4,6,12,0,0,66.66,First Innings,2724,Bairstow,Curran,caught
+Suryakumar Yadav,c Jordan b Archer,47,36,40,4,2,130.55,First Innings,2724,Jordan,Archer,caught
+Hardik Pandya,c Curran b Jordan,23,13,17,1,2,176.92,First Innings,2724,Curran,Jordan,caught
+Ravindra Jadeja,not out,17,9,24,2,0,188.88,First Innings,2724,,,not out
+Shivam Dube,c †Buttler b Jordan,0,1,1,0,0,0.00,First Innings,2724,†Buttler,Jordan,caught
+Axar Patel,c Salt b Jordan,10,6,10,0,1,166.66,First Innings,2724,Salt,Jordan,caught
+Arshdeep Singh,not out,1,1,1,0,0,100.00,First Innings,2724,,,not out
+Phil Salt,b Bumrah,5,8,20,0,0,62.50,Second Innings,2724,,Bumrah,b
+Jos Buttler,c †Pant b Patel,23,15,13,4,0,153.33,Second Innings,2724,†Pant,Patel,caught
+Moeen Ali,st †Pant b Patel,8,10,18,0,0,80.00,Second Innings,2724,†Pant,Patel,stumped
+Jonny Bairstow,b Patel,0,3,2,0,0,0.00,Second Innings,2724,,Patel,b
+Harry Brook,b Kuldeep Yadav,25,19,21,3,0,131.57,Second Innings,2724,,Yadav,b
+Sam Curran,lbw b Kuldeep Yadav,2,4,4,0,0,50.00,Second Innings,2724,,Kuldeep Yadav,lbw
+Liam Livingstone,run out (Kuldeep Yadav/Patel),11,16,24,0,0,68.75,Second Innings,2724,,Yadav/Patel),run
+Chris Jordan,lbw b Kuldeep Yadav,1,5,6,0,0,20.00,Second Innings,2724,,Kuldeep Yadav,lbw
+Jofra Archer,lbw b Bumrah,21,15,17,1,2,140.00,Second Innings,2724,,Bumrah,lbw
+Adil Rashid,run out (Yadav),2,2,2,0,0,100.00,Second Innings,2724,,(Yadav),run
+Reece Topley,not out,3,3,6,0,0,100.00,Second Innings,2724,,,not out
+Rohit Sharma,b Starc,92,41,59,7,8,224.39,First Innings,2721,,Starc,b
+Virat Kohli,c David b Hazlewood,0,5,8,0,0,0.00,First Innings,2721,David,Hazlewood,caught
+Rishabh Pant,c Hazlewood b Stoinis,15,14,33,1,1,107.14,First Innings,2721,Hazlewood,Stoinis,caught
+Suryakumar Yadav,c †Wade b Starc,31,16,29,3,2,193.75,First Innings,2721,†Wade,Starc,caught
+Shivam Dube,c Warner b Stoinis,28,22,33,2,1,127.27,First Innings,2721,Warner,Stoinis,caught
+Hardik Pandya,not out,27,17,24,1,2,158.82,First Innings,2721,,,not out
+Ravindra Jadeja,not out,9,5,4,0,1,180.00,First Innings,2721,,,not out
+David Warner,c Yadav b Arshdeep Singh,6,6,5,1,0,100.00,Second Innings,2721,Yadav,Arshdeep Singh,caught
+Travis Head,c Sharma b Bumrah,76,43,76,9,4,176.74,Second Innings,2721,Sharma,Bumrah,caught
+Mitchell Marsh,c Patel b Kuldeep Yadav,37,28,38,3,2,132.14,Second Innings,2721,Patel,Kuldeep Yadav,caught
+Glenn Maxwell,b Kuldeep Yadav,20,12,15,2,1,166.66,Second Innings,2721,,Yadav,b
+Marcus Stoinis,c Pandya b Patel,2,4,4,0,0,50.00,Second Innings,2721,Pandya,Patel,caught
+Tim David,c Bumrah b Arshdeep Singh,15,11,22,1,1,136.36,Second Innings,2721,Bumrah,Arshdeep Singh,caught
+Matthew Wade,c Kuldeep Yadav b Arshdeep Singh,1,2,5,0,0,50.00,Second Innings,2721,Kuldeep Yadav,Arshdeep Singh,caught
+Pat Cummins,not out,11,7,15,0,1,157.14,Second Innings,2721,,,not out
+Mitchell Starc,not out,4,7,9,0,0,57.14,Second Innings,2721,,,not out
+Rohit Sharma,c Jaker Ali b Shakib Al Hasan,23,11,14,3,1,209.09,First Innings,2716,Jaker Ali,Shakib Al Hasan,caught
+Virat Kohli,b Tanzim Hasan Sakib,37,28,34,1,3,132.14,First Innings,2716,,Sakib,b
+Rishabh Pant,c Tanzim Hasan Sakib b Rishad Hossain,36,24,36,4,2,150.00,First Innings,2716,Tanzim Hasan Sakib,Rishad Hossain,caught
+Suryakumar Yadav,c †Litton Das b Tanzim Hasan Sakib,6,2,2,0,1,300.00,First Innings,2716,†Litton Das,Tanzim Hasan Sakib,caught
+Shivam Dube,b Rishad Hossain,34,24,38,0,3,141.66,First Innings,2716,,Hossain,b
+Hardik Pandya,not out,50,27,38,4,3,185.18,First Innings,2716,,,not out
+Axar Patel,not out,3,5,13,0,0,60.00,First Innings,2716,,,not out
+Litton Das,c Yadav b Pandya,13,10,20,1,1,130.00,Second Innings,2716,Yadav,Pandya,caught
+Tanzid Hasan,lbw b Kuldeep Yadav,29,31,41,4,0,93.54,Second Innings,2716,,Kuldeep Yadav,lbw
+Najmul Hossain Shanto,c Arshdeep Singh b Bumrah,40,32,46,1,3,125.00,Second Innings,2716,Arshdeep Singh,Bumrah,caught
+Towhid Hridoy,lbw b Kuldeep Yadav,4,6,6,0,0,66.66,Second Innings,2716,,Kuldeep Yadav,lbw
+Shakib Al Hasan,c Sharma b Kuldeep Yadav,11,7,7,1,1,157.14,Second Innings,2716,Sharma,Kuldeep Yadav,caught
+Mahmudullah,c Patel b Arshdeep Singh,13,15,30,1,0,86.66,Second Innings,2716,Patel,Arshdeep Singh,caught
+Jaker Ali,c Kohli b Arshdeep Singh,1,4,3,0,0,25.00,Second Innings,2716,Kohli,Arshdeep Singh,caught
+Rishad Hossain,c Sharma b Bumrah,24,10,9,1,3,240.00,Second Innings,2716,Sharma,Bumrah,caught
+Mahedi Hasan,not out,5,4,7,1,0,125.00,Second Innings,2716,,,not out
+Tanzim Hasan Sakib,not out,1,1,1,0,0,100.00,Second Innings,2716,,,not out
+Rohit Sharma,c Rashid Khan b Fazalhaq Farooqi,8,13,13,1,0,61.53,First Innings,2710,Rashid Khan,Fazalhaq Farooqi,caught
+Virat Kohli,c Mohammad Nabi b Rashid Khan,24,24,41,0,1,100.00,First Innings,2710,Mohammad Nabi,Rashid Khan,caught
+Rishabh Pant,lbw b Rashid Khan,20,11,20,4,0,181.81,First Innings,2710,,Rashid Khan,lbw
+Suryakumar Yadav,c Mohammad Nabi b Fazalhaq Farooqi,53,28,51,5,3,189.28,First Innings,2710,Mohammad Nabi,Fazalhaq Farooqi,caught
+Shivam Dube,lbw b Rashid Khan,10,7,11,0,1,142.85,First Innings,2710,,Rashid Khan,lbw
+Hardik Pandya,c Azmatullah Omarzai b Naveen-ul-Haq,32,24,40,3,2,133.33,First Innings,2710,Azmatullah Omarzai,Naveen-ul-Haq,caught
+Ravindra Jadeja,c Gulbadin Naib b Fazalhaq Farooqi,7,5,11,1,0,140.00,First Innings,2710,Gulbadin Naib,Fazalhaq Farooqi,caught
+Axar Patel,run out (†Rahmanullah Gurbaz/Naveen-ul-Haq),12,6,11,2,0,200.00,First Innings,2710,,Gurbaz/Naveen-ul-Haq),run
+Arshdeep Singh,not out,2,2,8,0,0,100.00,First Innings,2710,,,not out
+Rahmanullah Gurbaz,c †Pant b Bumrah,11,8,7,1,1,137.50,Second Innings,2710,†Pant,Bumrah,caught
+Hazratullah Zazai,c Jadeja b Bumrah,2,4,20,0,0,50.00,Second Innings,2710,Jadeja,Bumrah,caught
+Ibrahim Zadran,c Sharma b Patel,8,11,9,1,0,72.72,Second Innings,2710,Sharma,Patel,caught
+Gulbadin Naib,c †Pant b Kuldeep Yadav,17,21,25,1,1,80.95,Second Innings,2710,†Pant,Kuldeep Yadav,caught
+Azmatullah Omarzai,c Patel b Jadeja,26,20,26,2,1,130.00,Second Innings,2710,Patel,Jadeja,caught
+Najibullah Zadran,c Arshdeep Singh b Bumrah,19,17,22,0,2,111.76,Second Innings,2710,Arshdeep Singh,Bumrah,caught
+Mohammad Nabi,c Jadeja b Kuldeep Yadav,14,14,24,0,1,100.00,Second Innings,2710,Jadeja,Kuldeep Yadav,caught
+Rashid Khan,c Jadeja b Arshdeep Singh,2,6,11,0,0,33.33,Second Innings,2710,Jadeja,Arshdeep Singh,caught
+Noor Ahmad,c Sharma b Arshdeep Singh,12,18,19,1,1,66.66,Second Innings,2710,Sharma,Arshdeep Singh,caught
+Naveen-ul-Haq,c †Pant b Arshdeep Singh,0,1,1,0,0,0.00,Second Innings,2710,†Pant,Arshdeep Singh,caught
+Fazalhaq Farooqi,not out,4,1,11,1,0,400.00,Second Innings,2710,,,not out
+Shayan Jahangir,lbw b Arshdeep Singh,0,1,1,0,0,0.00,First Innings,2671,,Arshdeep Singh,lbw
+Steven Taylor,b Patel,24,30,57,0,2,80.00,First Innings,2671,,Patel,b
+Andries Gous,c Pandya b Arshdeep Singh,2,5,4,0,0,40.00,First Innings,2671,Pandya,Arshdeep Singh,caught
+Aaron Jones,c Mohammed Siraj b Pandya,11,22,29,0,1,50.00,First Innings,2671,Mohammed Siraj,Pandya,caught
+Nitish Kumar,c Mohammed Siraj b Arshdeep Singh,27,23,33,2,1,117.39,First Innings,2671,Mohammed Siraj,Arshdeep Singh,caught
+Corey Anderson,c †Pant b Pandya,15,12,25,1,1,125.00,First Innings,2671,†Pant,Pandya,caught
+Harmeet Singh,c †Pant b Arshdeep Singh,10,10,16,0,1,100.00,First Innings,2671,†Pant,Arshdeep Singh,caught
+Shadley van Schalkwyk,not out,11,10,15,1,0,110.00,First Innings,2671,,,not out
+Jasdeep Singh,run out (†Pant/Mohammed Siraj),2,7,11,0,0,28.57,First Innings,2671,,Siraj),run
+Rohit Sharma,c Harmeet Singh b Netravalkar,3,6,12,0,0,50.00,Second Innings,2671,Harmeet Singh,Netravalkar,caught
+Virat Kohli,c †Gous b Netravalkar,0,1,1,0,0,0.00,Second Innings,2671,†Gous,Netravalkar,caught
+Rishabh Pant,b Ali Khan,18,20,38,1,1,90.00,Second Innings,2671,,Khan,b
+Suryakumar Yadav,not out,50,49,80,2,2,102.04,Second Innings,2671,,,not out
+Shivam Dube,not out,31,35,51,1,1,88.57,Second Innings,2671,,,not out
+Rohit Sharma,c Haris Rauf b Shaheen Shah Afridi,13,12,15,1,1,108.33,First Innings,2658,Haris Rauf,Shaheen Shah Afridi,caught
+Virat Kohli,c Usman Khan b Naseem Shah,4,3,7,1,0,133.33,First Innings,2658,Usman Khan,Naseem Shah,caught
+Rishabh Pant,c Babar Azam b Mohammad Amir,42,31,65,6,0,135.48,First Innings,2658,Babar Azam,Mohammad Amir,caught
+Axar Patel,b Naseem Shah,20,18,26,2,1,111.11,First Innings,2658,,Shah,b
+Suryakumar Yadav,c Mohammad Amir b Haris Rauf,7,8,16,1,0,87.50,First Innings,2658,Mohammad Amir,Haris Rauf,caught
+Shivam Dube,c & b Naseem Shah,3,9,7,0,0,33.33,First Innings,2658,&,Naseem Shah,caught
+Hardik Pandya,c Iftikhar Ahmed b Haris Rauf,7,12,24,1,0,58.33,First Innings,2658,Iftikhar Ahmed,Haris Rauf,caught
+Ravindra Jadeja,c Imad Wasim b Mohammad Amir,0,1,1,0,0,0.00,First Innings,2658,Imad Wasim,Mohammad Amir,caught
+Arshdeep Singh,run out (Babar Azam/†Mohammad Rizwan),9,13,26,1,0,69.23,First Innings,2658,,Rizwan),run
+Jasprit Bumrah,c Imad Wasim b Haris Rauf,0,1,1,0,0,0.00,First Innings,2658,Imad Wasim,Haris Rauf,caught
+Mohammed Siraj,not out,7,7,7,0,0,100.00,First Innings,2658,,,not out
+Mohammad Rizwan,b Bumrah,31,44,67,1,1,70.45,Second Innings,2658,,Bumrah,b
+Babar Azam,c Yadav b Bumrah,13,10,23,2,0,130.00,Second Innings,2658,Yadav,Bumrah,caught
+Usman Khan,lbw b Patel,13,15,23,1,0,86.66,Second Innings,2658,,Patel,lbw
+Fakhar Zaman,c †Pant b Pandya,13,8,8,1,1,162.50,Second Innings,2658,†Pant,Pandya,caught
+Imad Wasim,c †Pant b Arshdeep Singh,15,23,40,1,0,65.21,Second Innings,2658,†Pant,Arshdeep Singh,caught
+Shadab Khan,c †Pant b Pandya,4,7,10,0,0,57.14,Second Innings,2658,†Pant,Pandya,caught
+Iftikhar Ahmed,c Arshdeep Singh b Bumrah,5,9,14,0,0,55.55,Second Innings,2658,Arshdeep Singh,Bumrah,caught
+Shaheen Shah Afridi,not out,0,1,4,0,0,0.00,Second Innings,2658,,,not out
+Naseem Shah,not out,10,4,3,2,0,250.00,Second Innings,2658,,,not out
+Andy Balbirnie,b Arshdeep Singh,5,10,-,1,0,50.00,First Innings,2639,,Singh,b
+Paul Stirling,c †Pant b Arshdeep Singh,2,6,-,0,0,33.33,First Innings,2639,†Pant,Arshdeep Singh,caught
+Lorcan Tucker,b Pandya,10,13,-,2,0,76.92,First Innings,2639,,Pandya,b
+Harry Tector,c Kohli b Bumrah,4,16,-,0,0,25.00,First Innings,2639,Kohli,Bumrah,caught
+Curtis Campher,c †Pant b Pandya,12,8,-,1,1,150.00,First Innings,2639,†Pant,Pandya,caught
+George Dockrell,c Bumrah b Mohammed Siraj,3,5,-,0,0,60.00,First Innings,2639,Bumrah,Mohammed Siraj,caught
+Gareth Delany,run out (Mohammed Siraj/†Pant),26,14,-,2,2,185.71,First Innings,2639,,Siraj/†Pant),run
+Mark Adair,c Dube b Pandya,3,2,-,0,0,150.00,First Innings,2639,Dube,Pandya,caught
+Barry McCarthy,c & b Patel,0,6,-,0,0,0.00,First Innings,2639,&,Patel,caught
+Josh Little,b Bumrah,14,13,-,2,0,107.69,First Innings,2639,,Bumrah,b
+Ben White,not out,2,4,-,0,0,50.00,First Innings,2639,,,not out
+Rohit Sharma,retired hurt,52,37,48,4,3,140.54,Second Innings,2639,,hurt,retired
+Virat Kohli,c White b Adair,1,5,13,0,0,20.00,Second Innings,2639,White,Adair,caught
+Rishabh Pant,not out,36,26,46,3,2,138.46,Second Innings,2639,,,not out
+Suryakumar Yadav,c Dockrell b White,2,4,9,0,0,50.00,Second Innings,2639,Dockrell,White,caught
+Shivam Dube,not out,0,2,3,0,0,0.00,Second Innings,2639,,,not out
+Yashasvi Jaiswal,c Mohammad Nabi b Fareed Ahmad,4,6,12,0,0,66.66,First Innings,2435,Mohammad Nabi,Fareed Ahmad,caught
+Rohit Sharma,not out,121,69,103,11,8,175.36,First Innings,2435,,,not out
+Virat Kohli,c Ibrahim Zadran b Fareed Ahmad,0,1,1,0,0,0.00,First Innings,2435,Ibrahim Zadran,Fareed Ahmad,caught
+Shivam Dube,c †Rahmanullah Gurbaz b Azmatullah Omarzai,1,6,5,0,0,16.66,First Innings,2435,†Rahmanullah Gurbaz,Azmatullah Omarzai,caught
+Sanju Samson,c Mohammad Nabi b Fareed Ahmad,0,1,2,0,0,0.00,First Innings,2435,Mohammad Nabi,Fareed Ahmad,caught
+Rinku Singh,not out,69,39,77,2,6,176.92,First Innings,2435,,,not out
+Rahmanullah Gurbaz,c Washington Sundar b Kuldeep Yadav,50,32,46,3,4,156.25,Second Innings,2435,Washington Sundar,Kuldeep Yadav,caught
+Ibrahim Zadran,st †Samson b Washington Sundar,50,41,53,4,1,121.95,Second Innings,2435,†Samson,Washington Sundar,stumped
+Gulbadin Naib,not out,55,23,49,4,4,239.13,Second Innings,2435,,,not out
+Azmatullah Omarzai,c Ravi Bishnoi b Washington Sundar,0,1,1,0,0,0.00,Second Innings,2435,Ravi Bishnoi,Washington Sundar,caught
+Mohammad Nabi,c Avesh Khan b Washington Sundar,34,16,16,2,3,212.50,Second Innings,2435,Avesh Khan,Washington Sundar,caught
+Karim Janat,run out (†Samson),2,2,4,0,0,100.00,Second Innings,2435,,(†Samson),run
+Najibullah Zadran,c Kohli b Avesh Khan,5,3,6,1,0,166.66,Second Innings,2435,Kohli,Avesh Khan,caught
+Sharafuddin Ashraf,not out,5,2,12,1,0,250.00,Second Innings,2435,,,not out
+Rahmanullah Gurbaz,c Dube b Ravi Bishnoi,14,9,14,1,1,155.55,First Innings,2431,Dube,Ravi Bishnoi,caught
+Ibrahim Zadran,b Patel,8,10,28,1,0,80.00,First Innings,2431,,Patel,b
+Gulbadin Naib,c RG Sharma b Patel,57,35,35,5,4,162.85,First Innings,2431,RG Sharma,Patel,caught
+Azmatullah Omarzai,b Dube,2,5,5,0,0,40.00,First Innings,2431,,Dube,b
+Mohammad Nabi,c Singh b Ravi Bishnoi,14,18,28,1,0,77.77,First Innings,2431,Singh,Ravi Bishnoi,caught
+Najibullah Zadran,b Arshdeep Singh,23,21,23,1,2,109.52,First Innings,2431,,Singh,b
+Karim Janat,c Patel b Arshdeep Singh,20,10,22,2,1,200.00,First Innings,2431,Patel,Arshdeep Singh,caught
+Mujeeb Ur Rahman,run out (†JM Sharma/Arshdeep Singh),21,9,15,2,2,233.33,First Innings,2431,,Singh),run
+Noor Ahmad,c Kohli b Arshdeep Singh,1,2,3,0,0,50.00,First Innings,2431,Kohli,Arshdeep Singh,caught
+Naveen-ul-Haq,not out,1,1,2,0,0,100.00,First Innings,2431,,,not out
+Fazalhaq Farooqi,run out (†JM Sharma/Jaiswal),0,0,1,0,0,-,First Innings,2431,,Sharma/Jaiswal),run
+Yashasvi Jaiswal,c †Rahmanullah Gurbaz b Karim Janat,68,34,56,5,6,200.00,Second Innings,2431,†Rahmanullah Gurbaz,Karim Janat,caught
+Rohit Sharma,b Fazalhaq Farooqi,0,1,6,0,0,0.00,Second Innings,2431,,Farooqi,b
+Virat Kohli,c Ibrahim Zadran b Naveen-ul-Haq,29,16,20,5,0,181.25,Second Innings,2431,Ibrahim Zadran,Naveen-ul-Haq,caught
+Shivam Dube,not out,63,32,44,5,4,196.87,Second Innings,2431,,,not out
+Jitesh Sharma,c Mohammad Nabi b Karim Janat,0,2,2,0,0,0.00,Second Innings,2431,Mohammad Nabi,Karim Janat,caught
+Rinku Singh,not out,9,9,12,1,0,100.00,Second Innings,2431,,,not out
+Rahmanullah Gurbaz,st †JM Sharma b Patel,23,28,32,2,1,82.14,First Innings,2428,†JM Sharma,Patel,stumped
+Ibrahim Zadran,c RG Sharma b Dube,25,22,34,2,1,113.63,First Innings,2428,RG Sharma,Dube,caught
+Azmatullah Omarzai,b Mukesh Kumar,29,22,37,2,1,131.81,First Innings,2428,,Kumar,b
+Rahmat Shah,b Patel,3,6,5,0,0,50.00,First Innings,2428,,Patel,b
+Mohammad Nabi,c Singh b Mukesh Kumar,42,27,36,2,3,155.55,First Innings,2428,Singh,Mukesh Kumar,caught
+Najibullah Zadran,not out,19,11,15,4,0,172.72,First Innings,2428,,,not out
+Karim Janat,not out,9,5,9,2,0,180.00,First Innings,2428,,,not out
+Rohit Sharma,run out (Ibrahim Zadran/†Rahmanullah Gurbaz),0,2,1,0,0,0.00,Second Innings,2428,,Gurbaz),run
+Shubman Gill,st †Rahmanullah Gurbaz b Mujeeb Ur Rahman,23,12,16,5,0,191.66,Second Innings,2428,†Rahmanullah Gurbaz,Mujeeb Ur Rahman,stumped
+Tilak Varma,c Gulbadin Naib b Azmatullah Omarzai,26,22,34,2,1,118.18,Second Innings,2428,Gulbadin Naib,Azmatullah Omarzai,caught
+Shivam Dube,not out,60,40,61,5,2,150.00,Second Innings,2428,,,not out
+Jitesh Sharma,c Ibrahim Zadran b Mujeeb Ur Rahman,31,20,21,5,0,155.00,Second Innings,2428,Ibrahim Zadran,Mujeeb Ur Rahman,caught
+Rinku Singh,not out,16,9,19,2,0,177.77,Second Innings,2428,,,not out
